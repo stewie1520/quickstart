@@ -16,4 +16,5 @@ interface FileSystemHandle {
   removeEntry(name: string, options?: FileSystemRemoveOptions): Promise<void>
   resolve(possibleDescendant: FileSystemHandle): Promise<FileSystemHandle>
   values(): AsyncIterableIterator<FileSystemHandle>
+  getFile(): Promise<File>
 }

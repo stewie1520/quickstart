@@ -1,38 +1,46 @@
 'use client'
 
 import { useState } from 'react'
-import { Folder, File, ChevronRight, ChevronDown } from 'lucide-react'
+import { FileSystemItem } from '../../lib/filesystem'
+import { ItemDirectory } from './item-directory'
+import { ItemFile } from './item-file'
 
-export type FileSystemItem = {
-  name: string
-  kind: 'file' | 'directory'
-  children?: FileSystemItem[]
-}
-
-export const DirectoryTree = ({ item, level = 0 }: { item: FileSystemItem; level?: number }) => {
-  const [isOpen, setIsOpen] = useState(false)
+export const DirectoryTree = ({ 
+  item, 
+  level = 0, 
+  onFileSelect ,
+  expanded = false,
+}: { 
+  item: FileSystemItem
+  level?: number
+  expanded?: boolean
+  onFileSelect: (file: FileSystemItem) => void 
+}) => {
+  const [isOpen, setIsOpen] = useState(expanded)
 
   const toggleOpen = () => setIsOpen(!isOpen)
 
+  const handleClick = () => {
+    if (item.kind === 'directory') {
+      toggleOpen()
+    } else if (item.kind === 'file' && item.handle) {
+      onFileSelect(item)
+    }
+  }
+
   return (
-    <div className="ml-4">
-      <div className="flex items-center gap-1">
-        {item.kind === 'directory' && (
-          <button onClick={toggleOpen} className="p-1">
-            {isOpen ? <ChevronDown className="w-4 h-4" /> : <ChevronRight className="w-4 h-4" />}
-          </button>
-        )}
-        {item.kind === 'directory' ? (
-          <Folder className="w-4 h-4 text-yellow-500" />
-        ) : (
-          <File className="w-4 h-4 text-gray-500" />
-        )}
-        <span>{item.name}</span>
-      </div>
+    <div className="">
+      <ItemDirectory item={item} isOpen={isOpen} onClick={handleClick} />
+      <ItemFile item={item} onClick={handleClick} />
       {item.kind === 'directory' && isOpen && (
         <div className="ml-4">
           {item.children?.map((child, index) => (
-            <DirectoryTree key={`${child.name}-${index}`} item={child} level={level + 1} />
+            <DirectoryTree 
+              key={`${child.name}-${index}`} 
+              item={child} 
+              level={level + 1} 
+              onFileSelect={onFileSelect}
+            />
           ))}
         </div>
       )}

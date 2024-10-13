@@ -1,0 +1,3042 @@
+[
+  {
+      "ext": null,
+      "url": "vscode-icons/default_file.svg"
+  },
+  {
+      "ext": "accdb, accdt, mdb, accda, accdc, accde, accdp, accdr, accdu, ade, adp, laccdb, ldb, mam, maq, mdw",
+      "url": "vscode-icons/file_type_access.svg"
+  },
+  {
+      "ext": "accdb, accdt, mdb, accda, accdc, accde, accdp, accdr, accdu, ade, adp, laccdb, ldb, mam, maq, mdw",
+      "url": "vscode-icons/file_type_access2.svg"
+  },
+  {
+      "ext": "actionscript",
+      "url": "vscode-icons/file_type_actionscript.svg"
+  },
+  {
+      "ext": "actionscript",
+      "url": "vscode-icons/file_type_actionscript2.svg"
+  },
+  {
+      "ext": "ada",
+      "url": "vscode-icons/file_type_ada.svg"
+  },
+  {
+      "ext": "advpl",
+      "url": "vscode-icons/file_type_advpl.svg"
+  },
+  {
+      "ext": "ai",
+      "url": "vscode-icons/file_type_ai.svg"
+  },
+  {
+      "ext": "ai",
+      "url": "vscode-icons/file_type_ai2.svg"
+  },
+  {
+      "ext": "al",
+      "url": "vscode-icons/file_type_al.svg"
+  },
+  {
+      "ext": ".all-contributorsrc",
+      "url": "vscode-icons/file_type_allcontributors.svg"
+  },
+  {
+      "ext": "afdesign, affinitydesigner",
+      "url": "vscode-icons/file_type_affinitydesigner.svg"
+  },
+  {
+      "ext": "afphoto, affinityphoto",
+      "url": "vscode-icons/file_type_affinityphoto.svg"
+  },
+  {
+      "ext": "afpub, affinitypublisher",
+      "url": "vscode-icons/file_type_affinitypublisher.svg"
+  },
+  {
+      "ext": "gs",
+      "url": "vscode-icons/file_type_appscript.svg"
+  },
+  {
+      "ext": "fba",
+      "url": "vscode-icons/file_type_fitbit.svg"
+  },
+  {
+      "ext": ".angular-cli.json, angular-cli.json, angular.json, .angular.json",
+      "url": "vscode-icons/file_type_angular.svg"
+  },
+  {
+      "ext": "component.dart",
+      "url": "vscode-icons/file_type_ng_component_dart.svg"
+  },
+  {
+      "ext": "component.ts",
+      "url": "vscode-icons/file_type_ng_component_ts.svg"
+  },
+  {
+      "ext": "component.js",
+      "url": "vscode-icons/file_type_ng_component_js.svg"
+  },
+  {
+      "ext": "controller.ts",
+      "url": "vscode-icons/file_type_ng_controller_ts.svg"
+  },
+  {
+      "ext": "controller.js",
+      "url": "vscode-icons/file_type_ng_controller_js.svg"
+  },
+  {
+      "ext": "directive.dart",
+      "url": "vscode-icons/file_type_ng_directive_dart.svg"
+  },
+  {
+      "ext": "directive.ts",
+      "url": "vscode-icons/file_type_ng_directive_ts.svg"
+  },
+  {
+      "ext": "directive.js",
+      "url": "vscode-icons/file_type_ng_directive_js.svg"
+  },
+  {
+      "ext": "guard.dart",
+      "url": "vscode-icons/file_type_ng_guard_dart.svg"
+  },
+  {
+      "ext": "guard.ts",
+      "url": "vscode-icons/file_type_ng_guard_ts.svg"
+  },
+  {
+      "ext": "guard.js",
+      "url": "vscode-icons/file_type_ng_guard_js.svg"
+  },
+  {
+      "ext": "module.dart",
+      "url": "vscode-icons/file_type_ng_module_dart.svg"
+  },
+  {
+      "ext": "module.ts",
+      "url": "vscode-icons/file_type_ng_module_ts.svg"
+  },
+  {
+      "ext": "module.js",
+      "url": "vscode-icons/file_type_ng_module_js.svg"
+  },
+  {
+      "ext": "pipe.dart",
+      "url": "vscode-icons/file_type_ng_pipe_dart.svg"
+  },
+  {
+      "ext": "pipe.ts",
+      "url": "vscode-icons/file_type_ng_pipe_ts.svg"
+  },
+  {
+      "ext": "pipe.js",
+      "url": "vscode-icons/file_type_ng_pipe_js.svg"
+  },
+  {
+      "ext": "routing.dart",
+      "url": "vscode-icons/file_type_ng_routing_dart.svg"
+  },
+  {
+      "ext": "routing.ts",
+      "url": "vscode-icons/file_type_ng_routing_ts.svg"
+  },
+  {
+      "ext": "routing.js",
+      "url": "vscode-icons/file_type_ng_routing_js.svg"
+  },
+  {
+      "ext": "app-routing.module.dart",
+      "url": "vscode-icons/file_type_ng_routing_dart.svg"
+  },
+  {
+      "ext": "app-routing.module.ts",
+      "url": "vscode-icons/file_type_ng_routing_ts.svg"
+  },
+  {
+      "ext": "app-routing.module.js",
+      "url": "vscode-icons/file_type_ng_routing_js.svg"
+  },
+  {
+      "ext": "page.dart, container.dart",
+      "url": "vscode-icons/file_type_ng_smart_component_dart.svg"
+  },
+  {
+      "ext": "page.ts, container.ts",
+      "url": "vscode-icons/file_type_ng_smart_component_ts.svg"
+  },
+  {
+      "ext": "page.js, container.js",
+      "url": "vscode-icons/file_type_ng_smart_component_js.svg"
+  },
+  {
+      "ext": "service.dart",
+      "url": "vscode-icons/file_type_ng_service_dart.svg"
+  },
+  {
+      "ext": "service.ts",
+      "url": "vscode-icons/file_type_ng_service_ts.svg"
+  },
+  {
+      "ext": "service.js",
+      "url": "vscode-icons/file_type_ng_service_js.svg"
+  },
+  {
+      "ext": "interceptor.dart",
+      "url": "vscode-icons/file_type_ng_interceptor_dart.svg"
+  },
+  {
+      "ext": "interceptor.ts",
+      "url": "vscode-icons/file_type_ng_interceptor_ts.svg"
+  },
+  {
+      "ext": "interceptor.js",
+      "url": "vscode-icons/file_type_ng_interceptor_js.svg"
+  },
+  {
+      "ext": "component.ts",
+      "url": "vscode-icons/file_type_ng_component_ts2.svg"
+  },
+  {
+      "ext": "component.js",
+      "url": "vscode-icons/file_type_ng_component_js2.svg"
+  },
+  {
+      "ext": "directive.ts",
+      "url": "vscode-icons/file_type_ng_directive_ts2.svg"
+  },
+  {
+      "ext": "directive.js",
+      "url": "vscode-icons/file_type_ng_directive_js2.svg"
+  },
+  {
+      "ext": "module.ts",
+      "url": "vscode-icons/file_type_ng_module_ts2.svg"
+  },
+  {
+      "ext": "module.js",
+      "url": "vscode-icons/file_type_ng_module_js2.svg"
+  },
+  {
+      "ext": "pipe.ts",
+      "url": "vscode-icons/file_type_ng_pipe_ts2.svg"
+  },
+  {
+      "ext": "pipe.js",
+      "url": "vscode-icons/file_type_ng_pipe_js2.svg"
+  },
+  {
+      "ext": "routing.ts",
+      "url": "vscode-icons/file_type_ng_routing_ts2.svg"
+  },
+  {
+      "ext": "routing.js",
+      "url": "vscode-icons/file_type_ng_routing_js2.svg"
+  },
+  {
+      "ext": "app-routing.module.ts",
+      "url": "vscode-icons/file_type_ng_routing_ts2.svg"
+  },
+  {
+      "ext": "app-routing.module.js",
+      "url": "vscode-icons/file_type_ng_routing_js2.svg"
+  },
+  {
+      "ext": "page.ts, container.ts",
+      "url": "vscode-icons/file_type_ng_smart_component_ts2.svg"
+  },
+  {
+      "ext": "page.js, container.js",
+      "url": "vscode-icons/file_type_ng_smart_component_js2.svg"
+  },
+  {
+      "ext": "service.ts",
+      "url": "vscode-icons/file_type_ng_service_ts2.svg"
+  },
+  {
+      "ext": "service.js",
+      "url": "vscode-icons/file_type_ng_service_js2.svg"
+  },
+  {
+      "ext": "ng-tailwind.js",
+      "url": "vscode-icons/file_type_ng_tailwind.svg"
+  },
+  {
+      "ext": "affectscript",
+      "url": "vscode-icons/file_type_affectscript.svg"
+  },
+  {
+      "ext": "ansible",
+      "url": "vscode-icons/file_type_ansible.svg"
+  },
+  {
+      "ext": "antlr",
+      "url": "vscode-icons/file_type_antlr.svg"
+  },
+  {
+      "ext": "anyscript",
+      "url": "vscode-icons/file_type_anyscript.svg"
+  },
+  {
+      "ext": "apacheconf",
+      "url": "vscode-icons/file_type_apache.svg"
+  },
+  {
+      "ext": "apex",
+      "url": "vscode-icons/file_type_apex.svg"
+  },
+  {
+      "ext": "apiblueprint",
+      "url": "vscode-icons/file_type_apib.svg"
+  },
+  {
+      "ext": "api-extractor.json, api-extractor-base.json",
+      "url": "vscode-icons/file_type_api_extractor.svg"
+  },
+  {
+      "ext": "apl",
+      "url": "vscode-icons/file_type_apl.svg"
+  },
+  {
+      "ext": "applescript",
+      "url": "vscode-icons/file_type_applescript.svg"
+  },
+  {
+      "ext": ".appsemblerc.yaml, app-definition.yaml",
+      "url": "vscode-icons/file_type_appsemble.svg"
+  },
+  {
+      "ext": "appveyor.yml, .appveyor.yml",
+      "url": "vscode-icons/file_type_appveyor.svg"
+  },
+  {
+      "ext": "ino, pde",
+      "url": "vscode-icons/file_type_arduino.svg"
+  },
+  {
+      "ext": "asciidoc",
+      "url": "vscode-icons/file_type_asciidoc.svg"
+  },
+  {
+      "ext": "asp, asp html",
+      "url": "vscode-icons/file_type_asp.svg"
+  },
+  {
+      "ext": "aspx, ascx",
+      "url": "vscode-icons/file_type_aspx.svg"
+  },
+  {
+      "ext": "arm, asm",
+      "url": "vscode-icons/file_type_assembly.svg"
+  },
+  {
+      "ext": "astro",
+      "url": "vscode-icons/file_type_astro.svg"
+  },
+  {
+      "ext": "astro.config.js, astro.config.cjs, astro.config.mjs, astro.config.ts",
+      "url": "vscode-icons/file_type_astroconfig.svg"
+  },
+  {
+      "ext": "ats",
+      "url": "vscode-icons/file_type_ats.svg"
+  },
+  {
+      "ext": "aac, act, aiff, amr, ape, au, dct, dss, dvf, flac, gsm, iklax, ivs, m4a, m4b, m4p, mmf, mogg, mp3, mpc, msv, oga, ogg, opus, ra, raw, tta, vox, wav, wma",
+      "url": "vscode-icons/file_type_audio.svg"
+  },
+  {
+      "ext": "aurelia.json",
+      "url": "vscode-icons/file_type_aurelia.svg"
+  },
+  {
+      "ext": "ahk",
+      "url": "vscode-icons/file_type_autohotkey.svg"
+  },
+  {
+      "ext": "autoit",
+      "url": "vscode-icons/file_type_autoit.svg"
+  },
+  {
+      "ext": "avif",
+      "url": "vscode-icons/file_type_avif.svg"
+  },
+  {
+      "ext": "avro",
+      "url": "vscode-icons/file_type_avro.svg"
+  },
+  {
+      "ext": "awk",
+      "url": "vscode-icons/file_type_awk.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_aws.svg"
+  },
+  {
+      "ext": "azcli",
+      "url": "vscode-icons/file_type_azure.svg"
+  },
+  {
+      "ext": "azure-pipelines.yml, .vsts-ci.yml, azure-pipelines",
+      "url": "vscode-icons/file_type_azurepipelines.svg"
+  },
+  {
+      "ext": ".babelrc, .babelignore, .babelrc.js, .babelrc.cjs, .babelrc.mjs, .babelrc.json, babel.config.js, babel.config.cjs, babel.config.mjs, babel.config.json",
+      "url": "vscode-icons/file_type_babel.svg"
+  },
+  {
+      "ext": ".babelrc, .babelignore, .babelrc.js, .babelrc.cjs, .babelrc.mjs, .babelrc.json, babel.config.js, babel.config.cjs, babel.config.mjs, babel.config.json",
+      "url": "vscode-icons/file_type_babel2.svg"
+  },
+  {
+      "ext": "ballerina",
+      "url": "vscode-icons/file_type_ballerina.svg"
+  },
+  {
+      "ext": "bat",
+      "url": "vscode-icons/file_type_bat.svg"
+  },
+  {
+      "ext": "bats",
+      "url": "vscode-icons/file_type_bats.svg"
+  },
+  {
+      "ext": ".bzrignore",
+      "url": "vscode-icons/file_type_bazaar.svg"
+  },
+  {
+      "ext": "BUILD.bazel, .bazelrc, bazel.rc, bazel.bazelrc, bazel, starlark",
+      "url": "vscode-icons/file_type_bazel.svg"
+  },
+  {
+      "ext": "befunge, befunge98",
+      "url": "vscode-icons/file_type_befunge.svg"
+  },
+  {
+      "ext": "bicep",
+      "url": "vscode-icons/file_type_bicep.svg"
+  },
+  {
+      "ext": "biml",
+      "url": "vscode-icons/file_type_biml.svg"
+  },
+  {
+      "ext": "a, app, bin, cmo, cmx, cma, cmxa, cmi, dll, exe, hl, ilk, lib, n, ndll, o, obj, pyc, pyd, pyo, pdb, scpt, scptd, so",
+      "url": "vscode-icons/file_type_binary.svg"
+  },
+  {
+      "ext": ".bithoundrc",
+      "url": "vscode-icons/file_type_bithound.svg"
+  },
+  {
+      "ext": "bitbucket-pipelines.yml",
+      "url": "vscode-icons/file_type_bitbucketpipeline.svg"
+  },
+  {
+      "ext": "blade, laravel-blade",
+      "url": "vscode-icons/file_type_blade.svg"
+  },
+  {
+      "ext": "bb, blitzbasic",
+      "url": "vscode-icons/file_type_blitzbasic.svg"
+  },
+  {
+      "ext": "bolt",
+      "url": "vscode-icons/file_type_bolt.svg"
+  },
+  {
+      "ext": "bosque",
+      "url": "vscode-icons/file_type_bosque.svg"
+  },
+  {
+      "ext": ".bowerrc, bower.json",
+      "url": "vscode-icons/file_type_bower.svg"
+  },
+  {
+      "ext": ".browserslistrc, browserslist",
+      "url": "vscode-icons/file_type_browserslist.svg"
+  },
+  {
+      "ext": ".buckconfig",
+      "url": "vscode-icons/file_type_buckbuild.svg"
+  },
+  {
+      "ext": "gemfile, gemfile.lock",
+      "url": "vscode-icons/file_type_bundler.svg"
+  },
+  {
+      "ext": "gemfile, gemfile.lock",
+      "url": "vscode-icons/file_type_bundler.svg"
+  },
+  {
+      "ext": "c",
+      "url": "vscode-icons/file_type_c.svg"
+  },
+  {
+      "ext": "c",
+      "url": "vscode-icons/file_type_c2.svg"
+  },
+  {
+      "ext": "c",
+      "url": "vscode-icons/file_type_c3.svg"
+  },
+  {
+      "ext": "c-al",
+      "url": "vscode-icons/file_type_c_al.svg"
+  },
+  {
+      "ext": "cabal",
+      "url": "vscode-icons/file_type_cabal.svg"
+  },
+  {
+      "ext": "caddyfile",
+      "url": "vscode-icons/file_type_caddy.svg"
+  },
+  {
+      "ext": "cake",
+      "url": "vscode-icons/file_type_cake.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_cakephp.svg"
+  },
+  {
+      "ext": "capacitor.config.json",
+      "url": "vscode-icons/file_type_capacitor.svg"
+  },
+  {
+      "ext": "cargo.toml, cargo.lock",
+      "url": "vscode-icons/file_type_cargo.svg"
+  },
+  {
+      "ext": "casc",
+      "url": "vscode-icons/file_type_casc.svg"
+  },
+  {
+      "ext": "cddl",
+      "url": "vscode-icons/file_type_cddl.svg"
+  },
+  {
+      "ext": "csr, crt, cer, der, pfx, p12, p7b, p7r, src, crl, sst, stl",
+      "url": "vscode-icons/file_type_cert.svg"
+  },
+  {
+      "ext": "ceylon",
+      "url": "vscode-icons/file_type_ceylon.svg"
+  },
+  {
+      "ext": "lucee, cfml, lang-cfml",
+      "url": "vscode-icons/file_type_cf.svg"
+  },
+  {
+      "ext": "lucee, cfml, lang-cfml",
+      "url": "vscode-icons/file_type_cf2.svg"
+  },
+  {
+      "ext": "cfc",
+      "url": "vscode-icons/file_type_cfc.svg"
+  },
+  {
+      "ext": "cfc",
+      "url": "vscode-icons/file_type_cfc2.svg"
+  },
+  {
+      "ext": "cfmhtml",
+      "url": "vscode-icons/file_type_cfm.svg"
+  },
+  {
+      "ext": "cfmhtml",
+      "url": "vscode-icons/file_type_cfm2.svg"
+  },
+  {
+      "ext": "h",
+      "url": "vscode-icons/file_type_cheader.svg"
+  },
+  {
+      "ext": "chefignore, berksfile, berksfile.lock, policyfile.rb, policyfile.lock.json",
+      "url": "vscode-icons/file_type_chef.svg"
+  },
+  {
+      "ext": "class",
+      "url": "vscode-icons/file_type_class.svg"
+  },
+  {
+      "ext": "circle.yml",
+      "url": "vscode-icons/file_type_circleci.svg"
+  },
+  {
+      "ext": "cjm, cljc, clojure",
+      "url": "vscode-icons/file_type_clojure.svg"
+  },
+  {
+      "ext": "cljs, clojurescript",
+      "url": "vscode-icons/file_type_clojurescript.svg"
+  },
+  {
+      "ext": ".cfignore, manifest-yaml",
+      "url": "vscode-icons/file_type_cloudfoundry.svg"
+  },
+  {
+      "ext": "cmake, cmake-cache",
+      "url": "vscode-icons/file_type_cmake.svg"
+  },
+  {
+      "ext": "cobol",
+      "url": "vscode-icons/file_type_cobol.svg"
+  },
+  {
+      "ext": "ql",
+      "url": "vscode-icons/file_type_codeql.svg"
+  },
+  {
+      "ext": "codeowners",
+      "url": "vscode-icons/file_type_codeowners.svg"
+  },
+  {
+      "ext": ".codacy.yml, .codacy.yaml",
+      "url": "vscode-icons/file_type_codacy.svg"
+  },
+  {
+      "ext": ".codeclimate.yml",
+      "url": "vscode-icons/file_type_codeclimate.svg"
+  },
+  {
+      "ext": "codecov.yml, .codecov.yml",
+      "url": "vscode-icons/file_type_codecov.svg"
+  },
+  {
+      "ext": "kit",
+      "url": "vscode-icons/file_type_codekit.svg"
+  },
+  {
+      "ext": "config.codekit, config.codekit2, config.codekit3, .config.codekit, .config.codekit2, .config.codekit3",
+      "url": "vscode-icons/file_type_codekit.svg"
+  },
+  {
+      "ext": "coffeelint.json, .coffeelintignore",
+      "url": "vscode-icons/file_type_coffeelint.svg"
+  },
+  {
+      "ext": "coffeescript",
+      "url": "vscode-icons/file_type_coffeescript.svg"
+  },
+  {
+      "ext": "conanfile.txt, conanfile.py",
+      "url": "vscode-icons/file_type_conan.svg"
+  },
+  {
+      "ext": ".condarc",
+      "url": "vscode-icons/file_type_conda.svg"
+  },
+  {
+      "ext": "plist, properties, dotenv, env",
+      "url": "vscode-icons/file_type_config.svg"
+  },
+  {
+      "ext": ".tool-versions",
+      "url": "vscode-icons/file_type_config.svg"
+  },
+  {
+      "ext": ".czrc, .cz.json",
+      "url": "vscode-icons/file_type_commitizen.svg"
+  },
+  {
+      "ext": ".commitlintrc",
+      "url": "vscode-icons/file_type_commitlint.svg"
+  },
+  {
+      "ext": "commitlint.config.js, commitlint.config.cjs, commitlint.config.ts, .commitlintrc.json, .commitlintrc.yaml, .commitlintrc.yml, .commitlintrc.js, .commitlintrc.cjs, .commitlintrc.ts",
+      "url": "vscode-icons/file_type_commitlint.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_compass.svg"
+  },
+  {
+      "ext": "composer.json, composer.lock",
+      "url": "vscode-icons/file_type_composer.svg"
+  },
+  {
+      "ext": "cookbook",
+      "url": "vscode-icons/file_type_chef_cookbook.svg"
+  },
+  {
+      "ext": "confluence",
+      "url": "vscode-icons/file_type_confluence.svg"
+  },
+  {
+      "ext": ".coveralls.yml",
+      "url": "vscode-icons/file_type_coveralls.svg"
+  },
+  {
+      "ext": "cpp",
+      "url": "vscode-icons/file_type_cpp.svg"
+  },
+  {
+      "ext": "cpp",
+      "url": "vscode-icons/file_type_cpp2.svg"
+  },
+  {
+      "ext": "cpp",
+      "url": "vscode-icons/file_type_cpp3.svg"
+  },
+  {
+      "ext": "hpp, hh, hxx, h++",
+      "url": "vscode-icons/file_type_cppheader.svg"
+  },
+  {
+      "ext": "crowdin.yml",
+      "url": "vscode-icons/file_type_crowdin.svg"
+  },
+  {
+      "ext": "crystal",
+      "url": "vscode-icons/file_type_crystal.svg"
+  },
+  {
+      "ext": "csx, csharp",
+      "url": "vscode-icons/file_type_csharp.svg"
+  },
+  {
+      "ext": "csx, csharp",
+      "url": "vscode-icons/file_type_csharp2.svg"
+  },
+  {
+      "ext": "csproj",
+      "url": "vscode-icons/file_type_csproj.svg"
+  },
+  {
+      "ext": "css",
+      "url": "vscode-icons/file_type_css.svg"
+  },
+  {
+      "ext": ".csscomb.json",
+      "url": "vscode-icons/file_type_csscomb.svg"
+  },
+  {
+      "ext": ".csslintrc",
+      "url": "vscode-icons/file_type_csslint.svg"
+  },
+  {
+      "ext": "css.map",
+      "url": "vscode-icons/file_type_cssmap.svg"
+  },
+  {
+      "ext": "feature",
+      "url": "vscode-icons/file_type_cucumber.svg"
+  },
+  {
+      "ext": "cuda, cuda-cpp",
+      "url": "vscode-icons/file_type_cuda.svg"
+  },
+  {
+      "ext": "cython",
+      "url": "vscode-icons/file_type_cython.svg"
+  },
+  {
+      "ext": "cypress.json, cypress.env.json, cypress.config.js, cypress.config.ts, cypress.config.cjs, cypress.config.mjs",
+      "url": "vscode-icons/file_type_cypress.svg"
+  },
+  {
+      "ext": "cy.js, cy.mjs, cy.cjs, cy.coffee, cy.ts, cy.tsx, cy.jsx",
+      "url": "vscode-icons/file_type_cypress_spec.svg"
+  },
+  {
+      "ext": ".cvsignore",
+      "url": "vscode-icons/file_type_cvs.svg"
+  },
+  {
+      "ext": "dal",
+      "url": "vscode-icons/file_type_dal.svg"
+  },
+  {
+      "ext": ".boringignore",
+      "url": "vscode-icons/file_type_darcs.svg"
+  },
+  {
+      "ext": "dart",
+      "url": "vscode-icons/file_type_dartlang.svg"
+  },
+  {
+      "ext": "g.dart, freezed.dart",
+      "url": "vscode-icons/file_type_dartlang_generated.svg"
+  },
+  {
+      "ext": ".pubignore",
+      "url": "vscode-icons/file_type_dartlang_ignore.svg"
+  },
+  {
+      "ext": "db",
+      "url": "vscode-icons/file_type_db.svg"
+  },
+  {
+      "ext": "dependabot.yml",
+      "url": "vscode-icons/file_type_dependabot.svg"
+  },
+  {
+      "ext": "dependencies.yml",
+      "url": "vscode-icons/file_type_dependencies.svg"
+  },
+  {
+      "ext": "pascal, objectpascal",
+      "url": "vscode-icons/file_type_delphi.svg"
+  },
+  {
+      "ext": "devcontainer.json, .devcontainer.json",
+      "url": "vscode-icons/file_type_devcontainer.svg"
+  },
+  {
+      "ext": "dhall",
+      "url": "vscode-icons/file_type_dhall.svg"
+  },
+  {
+      "ext": "djt, django-html, django-txt",
+      "url": "vscode-icons/file_type_django.svg"
+  },
+  {
+      "ext": "d, dscript, dml, diet",
+      "url": "vscode-icons/file_type_dlang.svg"
+  },
+  {
+      "ext": "diff",
+      "url": "vscode-icons/file_type_diff.svg"
+  },
+  {
+      "ext": ".dockerignore, compose.yaml, compose.yml, docker-compose.yaml, docker-compose.yml, docker-compose.ci-build.yaml, docker-compose.ci-build.yml, docker-compose.override.yaml, docker-compose.override.yml, docker-compose.vs.debug.yaml, docker-compose.vs.debug.yml, docker-compose.vs.release.yaml, docker-compose.vs.release.yml, docker-cloud.yaml, docker-cloud.yml, dockerfile",
+      "url": "vscode-icons/file_type_docker.svg"
+  },
+  {
+      "ext": ".dockerignore, compose.yaml, compose.yml, docker-compose.yaml, docker-compose.yml, docker-compose.ci-build.yaml, docker-compose.ci-build.yml, docker-compose.override.yaml, docker-compose.override.yml, docker-compose.vs.debug.yaml, docker-compose.vs.debug.yml, docker-compose.vs.release.yaml, docker-compose.vs.release.yml, docker-cloud.yaml, docker-cloud.yml, dockerfile",
+      "url": "vscode-icons/file_type_docker2.svg"
+  },
+  {
+      "ext": "docker-compose.test.yml",
+      "url": "vscode-icons/file_type_dockertest.svg"
+  },
+  {
+      "ext": "docker-compose.test.yml",
+      "url": "vscode-icons/file_type_dockertest2.svg"
+  },
+  {
+      "ext": "eco",
+      "url": "vscode-icons/file_type_docpad.svg"
+  },
+  {
+      "ext": ".doczrc, docz.js, docz.json, .docz.js, .docz.json, doczrc.js, doczrc.json, docz.config.js, docz.config.json",
+      "url": "vscode-icons/file_type_docz.svg"
+  },
+  {
+      "ext": ".dojorc",
+      "url": "vscode-icons/file_type_dojo.svg"
+  },
+  {
+      "ext": "doxygen",
+      "url": "vscode-icons/file_type_doxygen.svg"
+  },
+  {
+      "ext": "drawio, dio .drawio.png, .drawio.svg, .dio.png, .dio.svg",
+      "url": "vscode-icons/file_type_drawio.svg"
+  },
+  {
+      "ext": ".drone.yml, .drone.yml.sig",
+      "url": "vscode-icons/file_type_drone.svg"
+  },
+  {
+      "ext": "drools",
+      "url": "vscode-icons/file_type_drools.svg"
+  },
+  {
+      "ext": "dotjs",
+      "url": "vscode-icons/file_type_dotjs.svg"
+  },
+  {
+      "ext": "dustjs",
+      "url": "vscode-icons/file_type_dustjs.svg"
+  },
+  {
+      "ext": ".dvc",
+      "url": "vscode-icons/file_type_dvc.svg"
+  },
+  {
+      "ext": "dylan, dylan-lid",
+      "url": "vscode-icons/file_type_dylan.svg"
+  },
+  {
+      "ext": ".editorconfig",
+      "url": "vscode-icons/file_type_editorconfig.svg"
+  },
+  {
+      "ext": ".earthlyignore, Earthfile, earthfile",
+      "url": "vscode-icons/file_type_earthly.svg"
+  },
+  {
+      "ext": "edge",
+      "url": "vscode-icons/file_type_edge.svg"
+  },
+  {
+      "ext": "edge",
+      "url": "vscode-icons/file_type_edge2.svg"
+  },
+  {
+      "ext": "eex, html-eex",
+      "url": "vscode-icons/file_type_eex.svg"
+  },
+  {
+      "ext": "ejs",
+      "url": "vscode-icons/file_type_ejs.svg"
+  },
+  {
+      "ext": "es",
+      "url": "vscode-icons/file_type_elastic.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_elasticbeanstalk.svg"
+  },
+  {
+      "ext": "elixir",
+      "url": "vscode-icons/file_type_elixir.svg"
+  },
+  {
+      "ext": "elm-package.json, elm",
+      "url": "vscode-icons/file_type_elm.svg"
+  },
+  {
+      "ext": "elm-package.json, elm",
+      "url": "vscode-icons/file_type_elm2.svg"
+  },
+  {
+      "ext": "el, elc",
+      "url": "vscode-icons/file_type_emacs.svg"
+  },
+  {
+      "ext": ".ember-cli",
+      "url": "vscode-icons/file_type_ember.svg"
+  },
+  {
+      "ext": "ensime",
+      "url": "vscode-icons/file_type_ensime.svg"
+  },
+  {
+      "ext": "eps",
+      "url": "vscode-icons/file_type_eps.svg"
+  },
+  {
+      "ext": "erb, html.erb",
+      "url": "vscode-icons/file_type_erb.svg"
+  },
+  {
+      "ext": "emakefile, .emakerfile, erlang",
+      "url": "vscode-icons/file_type_erlang.svg"
+  },
+  {
+      "ext": "emakefile, .emakerfile, erlang",
+      "url": "vscode-icons/file_type_erlang2.svg"
+  },
+  {
+      "ext": ".eslintrc, .eslintignore, .eslintcache, .eslintrc.js, .eslintrc.mjs, .eslintrc.cjs, .eslintrc.json, .eslintrc.yaml, .eslintrc.yml",
+      "url": "vscode-icons/file_type_eslint.svg"
+  },
+  {
+      "ext": ".eslintrc, .eslintignore, .eslintcache, .eslintrc.js, .eslintrc.mjs, .eslintrc.cjs, .eslintrc.json, .eslintrc.yaml, .eslintrc.yml",
+      "url": "vscode-icons/file_type_eslint2.svg"
+  },
+  {
+      "ext": "xls, xlsx, xlsm, ods, fods, xlsb",
+      "url": "vscode-icons/file_type_excel.svg"
+  },
+  {
+      "ext": "xls, xlsx, xlsm, ods, fods, xlsb",
+      "url": "vscode-icons/file_type_excel2.svg"
+  },
+  {
+      "ext": "app.json, app.config.js, app.config.json, app.config.json5",
+      "url": "vscode-icons/file_type_expo.svg"
+  },
+  {
+      "ext": "falcon",
+      "url": "vscode-icons/file_type_falcon.svg"
+  },
+  {
+      "ext": ".faunarc, fql",
+      "url": "vscode-icons/file_type_fauna.svg"
+  },
+  {
+      "ext": "favicon.ico",
+      "url": "vscode-icons/file_type_favicon.svg"
+  },
+  {
+      "ext": "fbx",
+      "url": "vscode-icons/file_type_fbx.svg"
+  },
+  {
+      "ext": ".firebaserc",
+      "url": "vscode-icons/file_type_firebase.svg"
+  },
+  {
+      "ext": "firebase.json",
+      "url": "vscode-icons/file_type_firebasehosting.svg"
+  },
+  {
+      "ext": "firestore.rules, firestore.indexes.json",
+      "url": "vscode-icons/file_type_firestore.svg"
+  },
+  {
+      "ext": "fla",
+      "url": "vscode-icons/file_type_fla.svg"
+  },
+  {
+      "ext": "flareact.config.js",
+      "url": "vscode-icons/file_type_flareact.svg"
+  },
+  {
+      "ext": "swf, swc",
+      "url": "vscode-icons/file_type_flash.svg"
+  },
+  {
+      "ext": ".flooignore",
+      "url": "vscode-icons/file_type_floobits.svg"
+  },
+  {
+      "ext": "js.flow",
+      "url": "vscode-icons/file_type_flow.svg"
+  },
+  {
+      "ext": ".flowconfig",
+      "url": "vscode-icons/file_type_flow.svg"
+  },
+  {
+      "ext": ".flutter-plugins, .metadata",
+      "url": "vscode-icons/file_type_flutter.svg"
+  },
+  {
+      "ext": "pubspec.lock, pubspec.yaml, .packages",
+      "url": "vscode-icons/file_type_flutter_package.svg"
+  },
+  {
+      "ext": "woff, woff2, ttf, otf, eot, pfa, pfb, sfd",
+      "url": "vscode-icons/file_type_font.svg"
+  },
+  {
+      "ext": "formkit.config.js, formkit.config.mjs, formkit.config.cjs, formkit.config.ts",
+      "url": "vscode-icons/file_type_formkit.svg"
+  },
+  {
+      "ext": "fortran, fortran-modern, FortranFreeForm, FortranFixedForm, fortran_fixed-form",
+      "url": "vscode-icons/file_type_fortran.svg"
+  },
+  {
+      "ext": ".fossaignore",
+      "url": "vscode-icons/file_type_fossa.svg"
+  },
+  {
+      "ext": "ignore-glob",
+      "url": "vscode-icons/file_type_fossil.svg"
+  },
+  {
+      "ext": "fsharp",
+      "url": "vscode-icons/file_type_fsharp.svg"
+  },
+  {
+      "ext": "fsproj",
+      "url": "vscode-icons/file_type_fsproj.svg"
+  },
+  {
+      "ext": "ftl",
+      "url": "vscode-icons/file_type_freemarker.svg"
+  },
+  {
+      "ext": "fthtml",
+      "url": "vscode-icons/file_type_fthtml.svg"
+  },
+  {
+      "ext": "funding.yml",
+      "url": "vscode-icons/file_type_funding.svg"
+  },
+  {
+      "ext": "fuse.js",
+      "url": "vscode-icons/file_type_fusebox.svg"
+  },
+  {
+      "ext": "galen",
+      "url": "vscode-icons/file_type_galen.svg"
+  },
+  {
+      "ext": "galen",
+      "url": "vscode-icons/file_type_galen2.svg"
+  },
+  {
+      "ext": ".gitattributes, .gitconfig, .gitignore, .gitmodules, .gitkeep, .mailmap, .issuetracker, git-commit, git-rebase, ignore",
+      "url": "vscode-icons/file_type_git.svg"
+  },
+  {
+      "ext": "gmx, gml-gms",
+      "url": "vscode-icons/file_type_gamemaker.svg"
+  },
+  {
+      "ext": "yy, yyp, gml-gms2",
+      "url": "vscode-icons/file_type_gamemaker2.svg"
+  },
+  {
+      "ext": "gml-gm81",
+      "url": "vscode-icons/file_type_gamemaker81.svg"
+  },
+  {
+      "ext": "gatsby-browser.js, gatsby-browser.ts, gatsby-browser.tsx, gatsby-ssr.js, gatsby-ssr.ts, gatsby-ssr.tsx",
+      "url": "vscode-icons/file_type_gatsby.svg"
+  },
+  {
+      "ext": "gatsby-config.js, gatsby-config.ts, gatsby-node.js, gatsby-node.ts",
+      "url": "vscode-icons/file_type_gatsby.svg"
+  },
+  {
+      "ext": "gcode",
+      "url": "vscode-icons/file_type_gcode.svg"
+  },
+  {
+      "ext": "genstat",
+      "url": "vscode-icons/file_type_genstat.svg"
+  },
+  {
+      "ext": ".gitlab-ci.yml",
+      "url": "vscode-icons/file_type_gitlab.svg"
+  },
+  {
+      "ext": ".gitpod.yaml, .gitpod.yml, gitpod.yaml, gitpod.yml",
+      "url": "vscode-icons/file_type_gitpod.svg"
+  },
+  {
+      "ext": "glide.yml",
+      "url": "vscode-icons/file_type_glide.svg"
+  },
+  {
+      "ext": ".glitterrc",
+      "url": "vscode-icons/file_type_glitter.svg"
+  },
+  {
+      "ext": "glsl",
+      "url": "vscode-icons/file_type_glsl.svg"
+  },
+  {
+      "ext": "glyphs",
+      "url": "vscode-icons/file_type_glyphs.svg"
+  },
+  {
+      "ext": "gnuplot",
+      "url": "vscode-icons/file_type_gnuplot.svg"
+  },
+  {
+      "ext": "go",
+      "url": "vscode-icons/file_type_go.svg"
+  },
+  {
+      "ext": "go.sum, go.mod",
+      "url": "vscode-icons/file_type_go_package.svg"
+  },
+  {
+      "ext": "goctl",
+      "url": "vscode-icons/file_type_goctl.svg"
+  },
+  {
+      "ext": "gdscript",
+      "url": "vscode-icons/file_type_godot.svg"
+  },
+  {
+      "ext": "gradle",
+      "url": "vscode-icons/file_type_gradle.svg"
+  },
+  {
+      "ext": "gradle",
+      "url": "vscode-icons/file_type_gradle2.svg"
+  },
+  {
+      "ext": ".gqlconfig, graphql",
+      "url": "vscode-icons/file_type_graphql.svg"
+  },
+  {
+      "ext": ".graphqlconfig, .graphqlconfig.yml, .graphqlconfig.yaml",
+      "url": "vscode-icons/file_type_graphql_config.svg"
+  },
+  {
+      "ext": "dot",
+      "url": "vscode-icons/file_type_graphviz.svg"
+  },
+  {
+      "ext": "greenkeeper.json",
+      "url": "vscode-icons/file_type_greenkeeper.svg"
+  },
+  {
+      "ext": "gridsome.config.js, gridsome.config.ts, gridsome.server.js, gridsome.server.ts, gridsome.client.js, gridsome.client.ts",
+      "url": "vscode-icons/file_type_gridsome.svg"
+  },
+  {
+      "ext": "groovy",
+      "url": "vscode-icons/file_type_groovy.svg"
+  },
+  {
+      "ext": "groovy",
+      "url": "vscode-icons/file_type_groovy2.svg"
+  },
+  {
+      "ext": "gruntfile.js, gruntfile.coffee, gruntfile.ts, gruntfile.babel.js, gruntfile.babel.coffee, gruntfile.babel.ts",
+      "url": "vscode-icons/file_type_grunt.svg"
+  },
+  {
+      "ext": "gulpfile.js, gulpfile.coffee, gulpfile.ts, gulpfile.mjs, gulpfile.esm.js, gulpfile.esm.coffee, gulpfile.esm.ts, gulpfile.esm.mjs, gulpfile.babel.js, gulpfile.babel.coffee, gulpfile.babel.ts, gulpfile.babel.mjs",
+      "url": "vscode-icons/file_type_gulp.svg"
+  },
+  {
+      "ext": "haml",
+      "url": "vscode-icons/file_type_haml.svg"
+  },
+  {
+      "ext": "handlebars",
+      "url": "vscode-icons/file_type_handlebars.svg"
+  },
+  {
+      "ext": "handlebars",
+      "url": "vscode-icons/file_type_handlebars2.svg"
+  },
+  {
+      "ext": "harbour",
+      "url": "vscode-icons/file_type_harbour.svg"
+  },
+  {
+      "ext": "hardhat.config.js, hardhat.config.ts",
+      "url": "vscode-icons/file_type_hardhat.svg"
+  },
+  {
+      "ext": "haskell, literate haskell",
+      "url": "vscode-icons/file_type_haskell.svg"
+  },
+  {
+      "ext": "haskell, literate haskell",
+      "url": "vscode-icons/file_type_haskell2.svg"
+  },
+  {
+      "ext": "haxelib.json, haxe, hxml, Haxe AST dump",
+      "url": "vscode-icons/file_type_haxe.svg"
+  },
+  {
+      "ext": "checkstyle.json",
+      "url": "vscode-icons/file_type_haxecheckstyle.svg"
+  },
+  {
+      "ext": "hxproj",
+      "url": "vscode-icons/file_type_haxedevelop.svg"
+  },
+  {
+      "ext": ".p4ignore",
+      "url": "vscode-icons/file_type_helix.svg"
+  },
+  {
+      "ext": "chart.lock, chart.yaml, helm",
+      "url": "vscode-icons/file_type_helm.svg"
+  },
+  {
+      "ext": "hjson",
+      "url": "vscode-icons/file_type_hjson.svg"
+  },
+  {
+      "ext": "hlsl",
+      "url": "vscode-icons/file_type_hlsl.svg"
+  },
+  {
+      "ext": "home-assistant",
+      "url": "vscode-icons/file_type_homeassistant.svg"
+  },
+  {
+      "ext": "horusec-config.json",
+      "url": "vscode-icons/file_type_horusec.svg"
+  },
+  {
+      "ext": "hosts",
+      "url": "vscode-icons/file_type_host.svg"
+  },
+  {
+      "ext": "html",
+      "url": "vscode-icons/file_type_html.svg"
+  },
+  {
+      "ext": ".htmlhintrc",
+      "url": "vscode-icons/file_type_htmlhint.svg"
+  },
+  {
+      "ext": "http",
+      "url": "vscode-icons/file_type_http.svg"
+  },
+  {
+      "ext": "hunspell.aff, hunspell.dic",
+      "url": "vscode-icons/file_type_hunspell.svg"
+  },
+  {
+      "ext": ".huskyrc, husky.config.js, .huskyrc.js, .huskyrc.json, .huskyrc.yaml, .huskyrc.yml",
+      "url": "vscode-icons/file_type_husky.svg"
+  },
+  {
+      "ext": "hy",
+      "url": "vscode-icons/file_type_hy.svg"
+  },
+  {
+      "ext": "ejs.t",
+      "url": "vscode-icons/file_type_hygen.svg"
+  },
+  {
+      "ext": "hypr",
+      "url": "vscode-icons/file_type_hypr.svg"
+  },
+  {
+      "ext": "icl",
+      "url": "vscode-icons/file_type_icl.svg"
+  },
+  {
+      "ext": "idr, lidr",
+      "url": "vscode-icons/file_type_idris.svg"
+  },
+  {
+      "ext": "ibc",
+      "url": "vscode-icons/file_type_idrisbin.svg"
+  },
+  {
+      "ext": "ipkg",
+      "url": "vscode-icons/file_type_idrispkg.svg"
+  },
+  {
+      "ext": "jpeg, jpg, gif, png, bmp, tiff, ico, webp",
+      "url": "vscode-icons/file_type_image.svg"
+  },
+  {
+      "ext": "imba, imba2, imba",
+      "url": "vscode-icons/file_type_imba.svg"
+  },
+  {
+      "ext": "inc, include",
+      "url": "vscode-icons/file_type_inc.svg"
+  },
+  {
+      "ext": "infopathxml, xsn, xsf, xtp2",
+      "url": "vscode-icons/file_type_infopath.svg"
+  },
+  {
+      "ext": "4GL",
+      "url": "vscode-icons/file_type_informix.svg"
+  },
+  {
+      "ext": "ini",
+      "url": "vscode-icons/file_type_ini.svg"
+  },
+  {
+      "ext": "ink",
+      "url": "vscode-icons/file_type_ink.svg"
+  },
+  {
+      "ext": "innosetup",
+      "url": "vscode-icons/file_type_innosetup.svg"
+  },
+  {
+      "ext": "ionic.project, ionic.config.json",
+      "url": "vscode-icons/file_type_ionic.svg"
+  },
+  {
+      "ext": "jakefile, jakefile.js",
+      "url": "vscode-icons/file_type_jake.svg"
+  },
+  {
+      "ext": "janet",
+      "url": "vscode-icons/file_type_janet.svg"
+  },
+  {
+      "ext": "jar",
+      "url": "vscode-icons/file_type_jar.svg"
+  },
+  {
+      "ext": "jasmine.json",
+      "url": "vscode-icons/file_type_jasmine.svg"
+  },
+  {
+      "ext": "java",
+      "url": "vscode-icons/file_type_java.svg"
+  },
+  {
+      "ext": "jbuilder",
+      "url": "vscode-icons/file_type_jbuilder.svg"
+  },
+  {
+      "ext": "jest.config.json, jest.config.base.json, jest.config.common.json, jest.config.ts, jest.config.base.ts, jest.config.common.ts, jest.json, .jestrc, .jestrc.js, .jestrc.json, jest.config.js, jest.config.cjs, jest.config.mjs, jest.config.base.js, jest.config.base.cjs, jest.config.base.mjs, jest.config.common.js, jest.config.common.cjs, jest.config.common.mjs, jest.config.babel.js, jest.config.babel.cjs, jest.config.babel.mjs",
+      "url": "vscode-icons/file_type_jest.svg"
+  },
+  {
+      "ext": "js.snap, jsx.snap, ts.snap, tsx.snap",
+      "url": "vscode-icons/file_type_jest_snapshot.svg"
+  },
+  {
+      "ext": "jekyll",
+      "url": "vscode-icons/file_type_jekyll.svg"
+  },
+  {
+      "ext": "jenkins, declarative, jenkinsfile",
+      "url": "vscode-icons/file_type_jenkins.svg"
+  },
+  {
+      "ext": "jinja, jinja-html, jinja-xml, jinja-css, jinja-json, jinja-md, jinja-py, jinja-rb, jinja-js, jinja-yaml, jinja-toml, jinja-latex, jinja-lua, jinja-properties, jinja-shell, jinja-dockerfile, jinja-sql, jinja-terraform, jinja-nginx, jinja-groovy, jinja-systemd, jinja-cpp",
+      "url": "vscode-icons/file_type_jinja.svg"
+  },
+  {
+      "ext": ".jpmignore",
+      "url": "vscode-icons/file_type_jpm.svg"
+  },
+  {
+      "ext": "javascript",
+      "url": "vscode-icons/file_type_js.svg"
+  },
+  {
+      "ext": "javascript",
+      "url": "vscode-icons/file_type_js_official.svg"
+  },
+  {
+      "ext": ".jsbeautifyrc, jsbeautifyrc, .jsbeautify, jsbeautify",
+      "url": "vscode-icons/file_type_jsbeautify.svg"
+  },
+  {
+      "ext": "jsconfig.json",
+      "url": "vscode-icons/file_type_jsconfig.svg"
+  },
+  {
+      "ext": ".jscpd.json, jscpd-report.xml, jscpd-report.json, jscpd-report.html",
+      "url": "vscode-icons/file_type_jscpd.svg"
+  },
+  {
+      "ext": ".jshintrc, .jshintignore",
+      "url": "vscode-icons/file_type_jshint.svg"
+  },
+  {
+      "ext": "js.map, cjs.map, mjs.map",
+      "url": "vscode-icons/file_type_jsmap.svg"
+  },
+  {
+      "ext": "jsonl, ndjson, json, json-tmlanguage, jsonc",
+      "url": "vscode-icons/file_type_json.svg"
+  },
+  {
+      "ext": "jsonl, ndjson, json, json-tmlanguage, jsonc",
+      "url": "vscode-icons/file_type_json_official.svg"
+  },
+  {
+      "ext": "jsonl, ndjson, json, json-tmlanguage, jsonc",
+      "url": "vscode-icons/file_type_json2.svg"
+  },
+  {
+      "ext": "jsonnet",
+      "url": "vscode-icons/file_type_jsonnet.svg"
+  },
+  {
+      "ext": "json5, json5",
+      "url": "vscode-icons/file_type_json5.svg"
+  },
+  {
+      "ext": "jsonld, json-ld",
+      "url": "vscode-icons/file_type_jsonld.svg"
+  },
+  {
+      "ext": "jsp",
+      "url": "vscode-icons/file_type_jsp.svg"
+  },
+  {
+      "ext": "jss",
+      "url": "vscode-icons/file_type_jss.svg"
+  },
+  {
+      "ext": "julia, juliamarkdown",
+      "url": "vscode-icons/file_type_julia.svg"
+  },
+  {
+      "ext": "julia, juliamarkdown",
+      "url": "vscode-icons/file_type_julia2.svg"
+  },
+  {
+      "ext": "ipynb",
+      "url": "vscode-icons/file_type_jupyter.svg"
+  },
+  {
+      "ext": "io",
+      "url": "vscode-icons/file_type_io.svg"
+  },
+  {
+      "ext": "iodine",
+      "url": "vscode-icons/file_type_iodine.svg"
+  },
+  {
+      "ext": "k",
+      "url": "vscode-icons/file_type_k.svg"
+  },
+  {
+      "ext": "karma.conf.js, karma.conf.coffee, karma.conf.ts",
+      "url": "vscode-icons/file_type_karma.svg"
+  },
+  {
+      "ext": "key, pem",
+      "url": "vscode-icons/file_type_key.svg"
+  },
+  {
+      "ext": ".kiteignore",
+      "url": "vscode-icons/file_type_kite.svg"
+  },
+  {
+      "ext": ".kitchen.yml, kitchen.yml",
+      "url": "vscode-icons/file_type_kitchenci.svg"
+  },
+  {
+      "ext": "kivy",
+      "url": "vscode-icons/file_type_kivy.svg"
+  },
+  {
+      "ext": "kos",
+      "url": "vscode-icons/file_type_kos.svg"
+  },
+  {
+      "ext": "kotlin",
+      "url": "vscode-icons/file_type_kotlin.svg"
+  },
+  {
+      "ext": "kusto",
+      "url": "vscode-icons/file_type_kusto.svg"
+  },
+  {
+      "ext": "latino",
+      "url": "vscode-icons/file_type_latino.svg"
+  },
+  {
+      "ext": "master, layout.html, layout.htm",
+      "url": "vscode-icons/file_type_layout.svg"
+  },
+  {
+      "ext": "layout.html, layout.htm",
+      "url": "vscode-icons/file_type_layout.svg"
+  },
+  {
+      "ext": "lerna.json",
+      "url": "vscode-icons/file_type_lerna.svg"
+  },
+  {
+      "ext": "less",
+      "url": "vscode-icons/file_type_less.svg"
+  },
+  {
+      "ext": "lex",
+      "url": "vscode-icons/file_type_lex.svg"
+  },
+  {
+      "ext": "enc, license, lic",
+      "url": "vscode-icons/file_type_license.svg"
+  },
+  {
+      "ext": "license, licence, copying, copying.lesser, license-mit, license-apache, license.md, license.txt, licence.md, licence.txt, copying.md, copying.txt, copying.lesser.md, copying.lesser.txt, license-mit.md, license-mit.txt, license-apache.md, license-apache.txt",
+      "url": "vscode-icons/file_type_license.svg"
+  },
+  {
+      "ext": ".licrc",
+      "url": "vscode-icons/file_type_licensebat.svg"
+  },
+  {
+      "ext": ".lighthouserc.js, .lighthouserc.json, .lighthouserc.yaml, .lighthouserc.yml",
+      "url": "vscode-icons/file_type_lighthouse.svg"
+  },
+  {
+      "ext": "lisp, autolisp, autolispdcl",
+      "url": "vscode-icons/file_type_lisp.svg"
+  },
+  {
+      "ext": "hxp",
+      "url": "vscode-icons/file_type_lime.svg"
+  },
+  {
+      "ext": "include.xml",
+      "url": "vscode-icons/file_type_lime.svg"
+  },
+  {
+      "ext": ".lintstagedrc, .lintstagedrc.json, .lintstagedrc.yaml, .lintstagedrc.yml, .lintstagedrc.mjs, .lintstagedrc.js, .lintstagedrc.cjs, lint-staged.config.mjs, lint-staged.config.js, lint-staged.config.cjs",
+      "url": "vscode-icons/file_type_lintstagedrc.svg"
+  },
+  {
+      "ext": "liquid",
+      "url": "vscode-icons/file_type_liquid.svg"
+  },
+  {
+      "ext": "ls",
+      "url": "vscode-icons/file_type_livescript.svg"
+  },
+  {
+      "ext": "lnk",
+      "url": "vscode-icons/file_type_lnk.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_locale.svg"
+  },
+  {
+      "ext": "log, tlg",
+      "url": "vscode-icons/file_type_log.svg"
+  },
+  {
+      "ext": "log, tlg, log",
+      "url": "vscode-icons/file_type_log.svg"
+  },
+  {
+      "ext": "lolcode",
+      "url": "vscode-icons/file_type_lolcode.svg"
+  },
+  {
+      "ext": "lsl",
+      "url": "vscode-icons/file_type_lsl.svg"
+  },
+  {
+      "ext": "lua",
+      "url": "vscode-icons/file_type_lua.svg"
+  },
+  {
+      "ext": "luau",
+      "url": "vscode-icons/file_type_luau.svg"
+  },
+  {
+      "ext": "crec, ocrec",
+      "url": "vscode-icons/file_type_lync.svg"
+  },
+  {
+      "ext": "makefile, makefile",
+      "url": "vscode-icons/file_type_makefile.svg"
+  },
+  {
+      "ext": "manifest",
+      "url": "vscode-icons/file_type_manifest.svg"
+  },
+  {
+      "ext": "manifest.skip",
+      "url": "vscode-icons/file_type_manifest_skip.svg"
+  },
+  {
+      "ext": "manifest.bak",
+      "url": "vscode-icons/file_type_manifest_bak.svg"
+  },
+  {
+      "ext": "map",
+      "url": "vscode-icons/file_type_map.svg"
+  },
+  {
+      "ext": "mdown, markdown, markdown",
+      "url": "vscode-icons/file_type_markdown.svg"
+  },
+  {
+      "ext": ".markdownlint.json",
+      "url": "vscode-icons/file_type_markdownlint.svg"
+  },
+  {
+      "ext": ".markdownlintignore",
+      "url": "vscode-icons/file_type_markdownlint_ignore.svg"
+  },
+  {
+      "ext": "marko",
+      "url": "vscode-icons/file_type_marko.svg"
+  },
+  {
+      "ext": "marko.js",
+      "url": "vscode-icons/file_type_markojs.svg"
+  },
+  {
+      "ext": "fig, mex, mexn, mexrs6, mn, mum, mx, mx3, rwd, slx, slddc, smv, xvc, matlab",
+      "url": "vscode-icons/file_type_matlab.svg"
+  },
+  {
+      "ext": "maxscript",
+      "url": "vscode-icons/file_type_maxscript.svg"
+  },
+  {
+      "ext": "maven.config, pom.xml, extensions.xml, settings.xml",
+      "url": "vscode-icons/file_type_maven.svg"
+  },
+  {
+      "ext": "mel",
+      "url": "vscode-icons/file_type_maya.svg"
+  },
+  {
+      "ext": "mdx",
+      "url": "vscode-icons/file_type_mdx.svg"
+  },
+  {
+      "ext": "mediawiki",
+      "url": "vscode-icons/file_type_mediawiki.svg"
+  },
+  {
+      "ext": ".hgignore",
+      "url": "vscode-icons/file_type_mercurial.svg"
+  },
+  {
+      "ext": "meson",
+      "url": "vscode-icons/file_type_meson.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_meteor.svg"
+  },
+  {
+      "ext": "mjml",
+      "url": "vscode-icons/file_type_mjml.svg"
+  },
+  {
+      "ext": "powerquery",
+      "url": "vscode-icons/file_type_mlang.svg"
+  },
+  {
+      "ext": "mocha.opts, .mocharc.js, .mocharc.json, .mocharc.jsonc, .mocharc.yaml, .mocharc.yml",
+      "url": "vscode-icons/file_type_mocha.svg"
+  },
+  {
+      "ext": "modernizr, modernizr.js, modernizrrc.js, .modernizr.js, .modernizrrc.js",
+      "url": "vscode-icons/file_type_modernizr.svg"
+  },
+  {
+      "ext": "mojolicious",
+      "url": "vscode-icons/file_type_mojolicious.svg"
+  },
+  {
+      "ext": "moleculer.config.js, moleculer.config.json, moleculer.config.ts",
+      "url": "vscode-icons/file_type_moleculer.svg"
+  },
+  {
+      "ext": "mongo",
+      "url": "vscode-icons/file_type_mongo.svg"
+  },
+  {
+      "ext": ".mtn-ignore",
+      "url": "vscode-icons/file_type_monotone.svg"
+  },
+  {
+      "ext": "mson",
+      "url": "vscode-icons/file_type_mson.svg"
+  },
+  {
+      "ext": "mustache, mst",
+      "url": "vscode-icons/file_type_mustache.svg"
+  },
+  {
+      "ext": "ndst.yaml, ndst.yml, ndst.json",
+      "url": "vscode-icons/file_type_ndst.svg"
+  },
+  {
+      "ext": "nearley",
+      "url": "vscode-icons/file_type_nearly.svg"
+  },
+  {
+      "ext": ".nest-cli.json, nest-cli.json, nestconfig.json, .nestconfig.json",
+      "url": "vscode-icons/file_type_nestjs.svg"
+  },
+  {
+      "ext": "adapter.js",
+      "url": "vscode-icons/file_type_nest_adapter_js.svg"
+  },
+  {
+      "ext": "adapter.ts",
+      "url": "vscode-icons/file_type_nest_adapter_ts.svg"
+  },
+  {
+      "ext": "controller.js",
+      "url": "vscode-icons/file_type_nest_controller_js.svg"
+  },
+  {
+      "ext": "controller.ts",
+      "url": "vscode-icons/file_type_nest_controller_ts.svg"
+  },
+  {
+      "ext": "decorator.js",
+      "url": "vscode-icons/file_type_nest_decorator_js.svg"
+  },
+  {
+      "ext": "decorator.ts",
+      "url": "vscode-icons/file_type_nest_decorator_ts.svg"
+  },
+  {
+      "ext": "filter.js",
+      "url": "vscode-icons/file_type_nest_filter_js.svg"
+  },
+  {
+      "ext": "filter.ts",
+      "url": "vscode-icons/file_type_nest_filter_ts.svg"
+  },
+  {
+      "ext": "gateway.js",
+      "url": "vscode-icons/file_type_nest_gateway_js.svg"
+  },
+  {
+      "ext": "gateway.ts",
+      "url": "vscode-icons/file_type_nest_gateway_ts.svg"
+  },
+  {
+      "ext": "guard.js",
+      "url": "vscode-icons/file_type_nest_guard_js.svg"
+  },
+  {
+      "ext": "guard.ts",
+      "url": "vscode-icons/file_type_nest_guard_ts.svg"
+  },
+  {
+      "ext": "interceptor.js",
+      "url": "vscode-icons/file_type_nest_interceptor_js.svg"
+  },
+  {
+      "ext": "interceptor.ts",
+      "url": "vscode-icons/file_type_nest_interceptor_ts.svg"
+  },
+  {
+      "ext": "middleware.js",
+      "url": "vscode-icons/file_type_nest_middleware_js.svg"
+  },
+  {
+      "ext": "middleware.ts",
+      "url": "vscode-icons/file_type_nest_middleware_ts.svg"
+  },
+  {
+      "ext": "module.js",
+      "url": "vscode-icons/file_type_nest_module_js.svg"
+  },
+  {
+      "ext": "module.ts",
+      "url": "vscode-icons/file_type_nest_module_ts.svg"
+  },
+  {
+      "ext": "pipe.js",
+      "url": "vscode-icons/file_type_nest_pipe_js.svg"
+  },
+  {
+      "ext": "pipe.ts",
+      "url": "vscode-icons/file_type_nest_pipe_ts.svg"
+  },
+  {
+      "ext": "service.js",
+      "url": "vscode-icons/file_type_nest_service_js.svg"
+  },
+  {
+      "ext": "service.ts",
+      "url": "vscode-icons/file_type_nest_service_ts.svg"
+  },
+  {
+      "ext": "netlify.toml",
+      "url": "vscode-icons/file_type_netlify.svg"
+  },
+  {
+      "ext": "next.config.js, next.config.mjs",
+      "url": "vscode-icons/file_type_next.svg"
+  },
+  {
+      "ext": "nginx.conf",
+      "url": "vscode-icons/file_type_nginx.svg"
+  },
+  {
+      "ext": "nim",
+      "url": "vscode-icons/file_type_nim.svg"
+  },
+  {
+      "ext": "nimble",
+      "url": "vscode-icons/file_type_nimble.svg"
+  },
+  {
+      "ext": "build.ninja",
+      "url": "vscode-icons/file_type_ninja.svg"
+  },
+  {
+      "ext": "noc",
+      "url": "vscode-icons/file_type_noc.svg"
+  },
+  {
+      "ext": "nix",
+      "url": "vscode-icons/file_type_nix.svg"
+  },
+  {
+      "ext": "njsproj",
+      "url": "vscode-icons/file_type_njsproj.svg"
+  },
+  {
+      "ext": ".node-version, .nvmrc",
+      "url": "vscode-icons/file_type_node.svg"
+  },
+  {
+      "ext": ".node-version, .nvmrc",
+      "url": "vscode-icons/file_type_node2.svg"
+  },
+  {
+      "ext": "nodemon.json",
+      "url": "vscode-icons/file_type_nodemon.svg"
+  },
+  {
+      "ext": ".npmignore, .npmrc, package.json, package-lock.json, npm-shrinkwrap.json",
+      "url": "vscode-icons/file_type_npm.svg"
+  },
+  {
+      "ext": "nsis, nfl, nsl, bridlensis",
+      "url": "vscode-icons/file_type_nsi.svg"
+  },
+  {
+      "ext": ".nsrirc, .nsriignore, nsri.config.js, .nsrirc.js, .nsrirc.json, .nsrirc.yaml, .nsrirc.yml",
+      "url": "vscode-icons/file_type_nsri.svg"
+  },
+  {
+      "ext": ".integrity.json",
+      "url": "vscode-icons/file_type_nsri-integrity.svg"
+  },
+  {
+      "ext": "nupkg, snupkg, nuspec, psmdcp",
+      "url": "vscode-icons/file_type_nuget.svg"
+  },
+  {
+      "ext": "npy, npz",
+      "url": "vscode-icons/file_type_numpy.svg"
+  },
+  {
+      "ext": "nunj, njs, nunjucks",
+      "url": "vscode-icons/file_type_nunjucks.svg"
+  },
+  {
+      "ext": "nuxt.config.js, nuxt.config.ts",
+      "url": "vscode-icons/file_type_nuxt.svg"
+  },
+  {
+      "ext": ".nycrc, .nycrc.json",
+      "url": "vscode-icons/file_type_nyc.svg"
+  },
+  {
+      "ext": "objective-c",
+      "url": "vscode-icons/file_type_objectivec.svg"
+  },
+  {
+      "ext": "objective-cpp",
+      "url": "vscode-icons/file_type_objectivecpp.svg"
+  },
+  {
+      "ext": ".objidconfig",
+      "url": "vscode-icons/file_type_objidconfig.svg"
+  },
+  {
+      "ext": ".merlin, ocaml, ocamllex, menhir",
+      "url": "vscode-icons/file_type_ocaml.svg"
+  },
+  {
+      "ext": "ogone",
+      "url": "vscode-icons/file_type_ogone.svg"
+  },
+  {
+      "ext": "one, onepkg, onetoc, onetoc2, sig",
+      "url": "vscode-icons/file_type_onenote.svg"
+  },
+  {
+      "ext": "scad",
+      "url": "vscode-icons/file_type_openscad.svg"
+  },
+  {
+      "ext": "cl, opencl",
+      "url": "vscode-icons/file_type_opencl.svg"
+  },
+  {
+      "ext": "openhab",
+      "url": "vscode-icons/file_type_openHAB.svg"
+  },
+  {
+      "ext": "org",
+      "url": "vscode-icons/file_type_org.svg"
+  },
+  {
+      "ext": "pst, bcmx, otm, msg, oft",
+      "url": "vscode-icons/file_type_outlook.svg"
+  },
+  {
+      "ext": "ovpn",
+      "url": "vscode-icons/file_type_ovpn.svg"
+  },
+  {
+      "ext": "pkg",
+      "url": "vscode-icons/file_type_package.svg"
+  },
+  {
+      "ext": "paket.dependencies, paket.lock, paket.references, paket.template, paket.local",
+      "url": "vscode-icons/file_type_paket.svg"
+  },
+  {
+      "ext": "patch",
+      "url": "vscode-icons/file_type_patch.svg"
+  },
+  {
+      "ext": "pcd",
+      "url": "vscode-icons/file_type_pcl.svg"
+  },
+  {
+      "ext": "pddl",
+      "url": "vscode-icons/file_type_pddl.svg"
+  },
+  {
+      "ext": "plan",
+      "url": "vscode-icons/file_type_pddl_plan.svg"
+  },
+  {
+      "ext": "happenings",
+      "url": "vscode-icons/file_type_pddl_happenings.svg"
+  },
+  {
+      "ext": "pdf",
+      "url": "vscode-icons/file_type_pdf.svg"
+  },
+  {
+      "ext": "pdf",
+      "url": "vscode-icons/file_type_pdf2.svg"
+  },
+  {
+      "ext": "peeky.config.ts, peeky.config.js, peeky.config.mjs",
+      "url": "vscode-icons/file_type_peeky.svg"
+  },
+  {
+      "ext": "perl",
+      "url": "vscode-icons/file_type_perl.svg"
+  },
+  {
+      "ext": "perl",
+      "url": "vscode-icons/file_type_perl2.svg"
+  },
+  {
+      "ext": "perl6",
+      "url": "vscode-icons/file_type_perl6.svg"
+  },
+  {
+      "ext": "pgsql",
+      "url": "vscode-icons/file_type_pgsql.svg"
+  },
+  {
+      "ext": "psd",
+      "url": "vscode-icons/file_type_photoshop.svg"
+  },
+  {
+      "ext": "psd",
+      "url": "vscode-icons/file_type_photoshop2.svg"
+  },
+  {
+      "ext": "php1, php2, php3, php4, php5, php6, phps, phpsa, phpt, phtml, phar, php",
+      "url": "vscode-icons/file_type_php.svg"
+  },
+  {
+      "ext": "php1, php2, php3, php4, php5, php6, phps, phpsa, phpt, phtml, phar, php",
+      "url": "vscode-icons/file_type_php2.svg"
+  },
+  {
+      "ext": "php1, php2, php3, php4, php5, php6, phps, phpsa, phpt, phtml, phar, php",
+      "url": "vscode-icons/file_type_php3.svg"
+  },
+  {
+      "ext": ".php_cs, .php_cs.dist",
+      "url": "vscode-icons/file_type_phpcsfixer.svg"
+  },
+  {
+      "ext": "phpunit, phpunit.xml, phpunit.xml.dist",
+      "url": "vscode-icons/file_type_phpunit.svg"
+  },
+  {
+      "ext": ".phraseapp.yml",
+      "url": "vscode-icons/file_type_phraseapp.svg"
+  },
+  {
+      "ext": "pine, pinescript",
+      "url": "vscode-icons/file_type_pine.svg"
+  },
+  {
+      "ext": "pipfile, pipfile.lock, pip-requirements",
+      "url": "vscode-icons/file_type_pip.svg"
+  },
+  {
+      "ext": "pipeline",
+      "url": "vscode-icons/file_type_pipeline.svg"
+  },
+  {
+      "ext": "platformio.ini, platformio-debug.disassembly, platformio-debug.memoryview, platformio-debug.asm",
+      "url": "vscode-icons/file_type_platformio.svg"
+  },
+  {
+      "ext": "pu, plantuml, iuml, puml",
+      "url": "vscode-icons/file_type_plantuml.svg"
+  },
+  {
+      "ext": "playwright.config.js, playwright.config.ts",
+      "url": "vscode-icons/file_type_playwright.svg"
+  },
+  {
+      "ext": "plsql, oracle",
+      "url": "vscode-icons/file_type_plsql.svg"
+  },
+  {
+      "ext": "pck",
+      "url": "vscode-icons/file_type_plsql_package.svg"
+  },
+  {
+      "ext": "pkb",
+      "url": "vscode-icons/file_type_plsql_package_body.svg"
+  },
+  {
+      "ext": "pkh",
+      "url": "vscode-icons/file_type_plsql_package_header.svg"
+  },
+  {
+      "ext": "pks",
+      "url": "vscode-icons/file_type_plsql_package_spec.svg"
+  },
+  {
+      "ext": "pnpmfile.js, pnpm-lock.yaml, pnpm-workspace.yaml",
+      "url": "vscode-icons/file_type_pnpm.svg"
+  },
+  {
+      "ext": "po, mo",
+      "url": "vscode-icons/file_type_poedit.svg"
+  },
+  {
+      "ext": "polymer",
+      "url": "vscode-icons/file_type_polymer.svg"
+  },
+  {
+      "ext": "pony",
+      "url": "vscode-icons/file_type_pony.svg"
+  },
+  {
+      "ext": "postcss",
+      "url": "vscode-icons/file_type_postcss.svg"
+  },
+  {
+      "ext": ".postcssrc, .postcssrc.json, .postcssrc.yaml, .postcssrc.yml, .postcssrc.ts, .postcssrc.js, .postcssrc.cjs, postcss.config.ts, postcss.config.js, postcss.config.cjs",
+      "url": "vscode-icons/file_type_postcssconfig.svg"
+  },
+  {
+      "ext": "pot, potx, potm, pps, ppsx, ppsm, ppt, pptx, pptm, pa, ppa, ppam, sldm, sldx",
+      "url": "vscode-icons/file_type_powerpoint.svg"
+  },
+  {
+      "ext": "pot, potx, potm, pps, ppsx, ppsm, ppt, pptx, pptm, pa, ppa, ppam, sldm, sldx",
+      "url": "vscode-icons/file_type_powerpoint2.svg"
+  },
+  {
+      "ext": "powershell",
+      "url": "vscode-icons/file_type_powershell.svg"
+  },
+  {
+      "ext": "psm1",
+      "url": "vscode-icons/file_type_powershell_psm.svg"
+  },
+  {
+      "ext": "psd1",
+      "url": "vscode-icons/file_type_powershell_psd.svg"
+  },
+  {
+      "ext": "format.ps1xml",
+      "url": "vscode-icons/file_type_powershell_format.svg"
+  },
+  {
+      "ext": "types.ps1xml",
+      "url": "vscode-icons/file_type_powershell_types.svg"
+  },
+  {
+      "ext": "powershell",
+      "url": "vscode-icons/file_type_powershell2.svg"
+  },
+  {
+      "ext": "psm1",
+      "url": "vscode-icons/file_type_powershell_psm2.svg"
+  },
+  {
+      "ext": "psd1",
+      "url": "vscode-icons/file_type_powershell_psd2.svg"
+  },
+  {
+      "ext": "preact.config.js",
+      "url": "vscode-icons/file_type_preact.svg"
+  },
+  {
+      "ext": ".pre-commit-config.yaml",
+      "url": "vscode-icons/file_type_precommit.svg"
+  },
+  {
+      "ext": ".prettierrc, .prettierignore",
+      "url": "vscode-icons/file_type_prettier.svg"
+  },
+  {
+      "ext": "prettier.config.js, prettier.config.cjs, prettier.config.ts, prettier.config.coffee",
+      "url": "vscode-icons/file_type_prettier.svg"
+  },
+  {
+      "ext": ".prettierrc.js, .prettierrc.cjs, .prettierrc.json, .prettierrc.json5, .prettierrc.yml, .prettierrc.yaml, .prettierrc.toml",
+      "url": "vscode-icons/file_type_prettier.svg"
+  },
+  {
+      "ext": "prisma",
+      "url": "vscode-icons/file_type_prisma.svg"
+  },
+  {
+      "ext": "pde",
+      "url": "vscode-icons/file_type_processinglang.svg"
+  },
+  {
+      "ext": "procfile",
+      "url": "vscode-icons/file_type_procfile.svg"
+  },
+  {
+      "ext": "abl",
+      "url": "vscode-icons/file_type_progress.svg"
+  },
+  {
+      "ext": "pro, P, prolog",
+      "url": "vscode-icons/file_type_prolog.svg"
+  },
+  {
+      "ext": "prometheus",
+      "url": "vscode-icons/file_type_prometheus.svg"
+  },
+  {
+      "ext": "proto3, proto",
+      "url": "vscode-icons/file_type_protobuf.svg"
+  },
+  {
+      "ext": "protractor.conf.js, protractor.conf.coffee, protractor.conf.ts",
+      "url": "vscode-icons/file_type_protractor.svg"
+  },
+  {
+      "ext": "pub, puz",
+      "url": "vscode-icons/file_type_publisher.svg"
+  },
+  {
+      "ext": "puppet",
+      "url": "vscode-icons/file_type_puppet.svg"
+  },
+  {
+      "ext": ".jade-lintrc, .pug-lintrc, .jade-lint.json, .pug-lintrc.js, .pug-lintrc.json, jade",
+      "url": "vscode-icons/file_type_pug.svg"
+  },
+  {
+      "ext": "purescript",
+      "url": "vscode-icons/file_type_purescript.svg"
+  },
+  {
+      "ext": "pyret",
+      "url": "vscode-icons/file_type_pyret.svg"
+  },
+  {
+      "ext": "python",
+      "url": "vscode-icons/file_type_python.svg"
+  },
+  {
+      "ext": "py.typed",
+      "url": "vscode-icons/file_type_pytyped.svg"
+  },
+  {
+      "ext": ".pyup, .pyup.yml",
+      "url": "vscode-icons/file_type_pyup.svg"
+  },
+  {
+      "ext": "q",
+      "url": "vscode-icons/file_type_q.svg"
+  },
+  {
+      "ext": "qbs",
+      "url": "vscode-icons/file_type_qbs.svg"
+  },
+  {
+      "ext": "qvd, qvw, qlik",
+      "url": "vscode-icons/file_type_qlikview.svg"
+  },
+  {
+      "ext": "qml",
+      "url": "vscode-icons/file_type_qml.svg"
+  },
+  {
+      "ext": "qmldir",
+      "url": "vscode-icons/file_type_qmldir.svg"
+  },
+  {
+      "ext": "qsharp",
+      "url": "vscode-icons/file_type_qsharp.svg"
+  },
+  {
+      "ext": "quasar.config.js, quasar.conf.js",
+      "url": "vscode-icons/file_type_quasar.svg"
+  },
+  {
+      "ext": "r",
+      "url": "vscode-icons/file_type_r.svg"
+  },
+  {
+      "ext": "racket",
+      "url": "vscode-icons/file_type_racket.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_rails.svg"
+  },
+  {
+      "ext": "rake",
+      "url": "vscode-icons/file_type_rake.svg"
+  },
+  {
+      "ext": "rakefile",
+      "url": "vscode-icons/file_type_rake.svg"
+  },
+  {
+      "ext": "raml",
+      "url": "vscode-icons/file_type_raml.svg"
+  },
+  {
+      "ext": "razor, aspnetcorerazor",
+      "url": "vscode-icons/file_type_razor.svg"
+  },
+  {
+      "ext": "razzle.config.js",
+      "url": "vscode-icons/file_type_razzle.svg"
+  },
+  {
+      "ext": "jsx",
+      "url": "vscode-icons/file_type_reactjs.svg"
+  },
+  {
+      "ext": "rt",
+      "url": "vscode-icons/file_type_reacttemplate.svg"
+  },
+  {
+      "ext": "tsx",
+      "url": "vscode-icons/file_type_reactts.svg"
+  },
+  {
+      "ext": "reason",
+      "url": "vscode-icons/file_type_reason.svg"
+  },
+  {
+      "ext": "red",
+      "url": "vscode-icons/file_type_red.svg"
+  },
+  {
+      "ext": "reg",
+      "url": "vscode-icons/file_type_registry.svg"
+  },
+  {
+      "ext": "rego",
+      "url": "vscode-icons/file_type_rego.svg"
+  },
+  {
+      "ext": ".rehyperc, .rehypeignore, .rehyperc.cjs, .rehyperc.js, .rehyperc.json, .rehyperc.mjs, .rehyperc.yml, .rehyperc.yaml",
+      "url": "vscode-icons/file_type_rehype.svg"
+  },
+  {
+      "ext": ".remarkrc, .remarkignore, .remarkrc.cjs, .remarkrc.js, .remarkrc.json, .remarkrc.mjs, .remarkrc.yml, .remarkrc.yaml",
+      "url": "vscode-icons/file_type_remark.svg"
+  },
+  {
+      "ext": ".renovaterc, renovate.json, .renovaterc.json",
+      "url": "vscode-icons/file_type_renovate.svg"
+  },
+  {
+      "ext": ".replit, replit.nix",
+      "url": "vscode-icons/file_type_replit.svg"
+  },
+  {
+      "ext": "rescript",
+      "url": "vscode-icons/file_type_rescript.svg"
+  },
+  {
+      "ext": "restructuredtext",
+      "url": "vscode-icons/file_type_rest.svg"
+  },
+  {
+      "ext": ".retextrc, .retextignore, .retextrc.cjs, .retextrc.js, .retextrc.json, .retextrc.mjs, .retextrc.yml, .retextrc.yaml",
+      "url": "vscode-icons/file_type_retext.svg"
+  },
+  {
+      "ext": "rexx",
+      "url": "vscode-icons/file_type_rexx.svg"
+  },
+  {
+      "ext": "riot",
+      "url": "vscode-icons/file_type_riot.svg"
+  },
+  {
+      "ext": "robot",
+      "url": "vscode-icons/file_type_robotframework.svg"
+  },
+  {
+      "ext": "robots.txt",
+      "url": "vscode-icons/file_type_robots.svg"
+  },
+  {
+      "ext": "rollup.config.js, rollup.config.cjs, rollup.config.mjs, rollup.config.coffee, rollup.config.ts, rollup.config.common.js, rollup.config.common.cjs, rollup.config.common.mjs, rollup.config.common.coffee, rollup.config.common.ts, rollup.config.dev.js, rollup.config.dev.cjs, rollup.config.dev.mjs, rollup.config.dev.coffee, rollup.config.dev.ts, rollup.config.prod.js, rollup.config.prod.cjs, rollup.config.prod.mjs, rollup.config.prod.coffee, rollup.config.prod.ts",
+      "url": "vscode-icons/file_type_rollup.svg"
+  },
+  {
+      "ext": "ron",
+      "url": "vscode-icons/file_type_ron.svg"
+  },
+  {
+      "ext": "rmd",
+      "url": "vscode-icons/file_type_rmd.svg"
+  },
+  {
+      "ext": "rproj",
+      "url": "vscode-icons/file_type_rproj.svg"
+  },
+  {
+      "ext": ".rspec",
+      "url": "vscode-icons/file_type_rspec.svg"
+  },
+  {
+      "ext": ".rubocop.yml, .rubocop_todo.yml",
+      "url": "vscode-icons/file_type_rubocop.svg"
+  },
+  {
+      "ext": "ruby",
+      "url": "vscode-icons/file_type_ruby.svg"
+  },
+  {
+      "ext": "rust",
+      "url": "vscode-icons/file_type_rust.svg"
+  },
+  {
+      "ext": "rust-toolchain",
+      "url": "vscode-icons/file_type_rust_toolchain.svg"
+  },
+  {
+      "ext": ".sailsrc",
+      "url": "vscode-icons/file_type_sails.svg"
+  },
+  {
+      "ext": "sls",
+      "url": "vscode-icons/file_type_saltstack.svg"
+  },
+  {
+      "ext": "san",
+      "url": "vscode-icons/file_type_san.svg"
+  },
+  {
+      "ext": "SAS",
+      "url": "vscode-icons/file_type_sas.svg"
+  },
+  {
+      "ext": "sass",
+      "url": "vscode-icons/file_type_sass.svg"
+  },
+  {
+      "ext": "sbt",
+      "url": "vscode-icons/file_type_sbt.svg"
+  },
+  {
+      "ext": "scala",
+      "url": "vscode-icons/file_type_scala.svg"
+  },
+  {
+      "ext": "vbscript",
+      "url": "vscode-icons/file_type_script.svg"
+  },
+  {
+      "ext": "scssm, scss",
+      "url": "vscode-icons/file_type_scss.svg"
+  },
+  {
+      "ext": "scilab",
+      "url": "vscode-icons/file_type_scilab.svg"
+  },
+  {
+      "ext": "sdl",
+      "url": "vscode-icons/file_type_sdlang.svg"
+  },
+  {
+      "ext": ".sentryclirc",
+      "url": "vscode-icons/file_type_sentry.svg"
+  },
+  {
+      "ext": "serverless.yml, serverless.json, serverless.js, serverless.ts",
+      "url": "vscode-icons/file_type_serverless.svg"
+  },
+  {
+      "ext": ".sequelizerc, .sequelizerc.js, .sequelizerc.json",
+      "url": "vscode-icons/file_type_sequelize.svg"
+  },
+  {
+      "ext": "unity, shaderlab",
+      "url": "vscode-icons/file_type_shaderlab.svg"
+  },
+  {
+      "ext": "fish, shellscript",
+      "url": "vscode-icons/file_type_shell.svg"
+  },
+  {
+      "ext": "sy",
+      "url": "vscode-icons/file_type_siyuan.svg"
+  },
+  {
+      "ext": "sketch",
+      "url": "vscode-icons/file_type_sketch.svg"
+  },
+  {
+      "ext": "slang",
+      "url": "vscode-icons/file_type_slang.svg"
+  },
+  {
+      "ext": "slash-up.config.js",
+      "url": "vscode-icons/file_type_slashup.svg"
+  },
+  {
+      "ext": "slice",
+      "url": "vscode-icons/file_type_slice.svg"
+  },
+  {
+      "ext": "slim",
+      "url": "vscode-icons/file_type_slim.svg"
+  },
+  {
+      "ext": "sln",
+      "url": "vscode-icons/file_type_sln.svg"
+  },
+  {
+      "ext": "sln",
+      "url": "vscode-icons/file_type_sln2.svg"
+  },
+  {
+      "ext": "silverstripe",
+      "url": "vscode-icons/file_type_silverstripe.svg"
+  },
+  {
+      "ext": "eskip, eskip",
+      "url": "vscode-icons/file_type_skipper.svg"
+  },
+  {
+      "ext": "smarty",
+      "url": "vscode-icons/file_type_smarty.svg"
+  },
+  {
+      "ext": "snapcraft.yaml",
+      "url": "vscode-icons/file_type_snapcraft.svg"
+  },
+  {
+      "ext": "snort",
+      "url": "vscode-icons/file_type_snort.svg"
+  },
+  {
+      "ext": ".snyk",
+      "url": "vscode-icons/file_type_snyk.svg"
+  },
+  {
+      "ext": ".solidarity, .solidarity.json",
+      "url": "vscode-icons/file_type_solidarity.svg"
+  },
+  {
+      "ext": "solidity",
+      "url": "vscode-icons/file_type_solidity.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_source.svg"
+  },
+  {
+      "ext": "spe",
+      "url": "vscode-icons/file_type_spacengine.svg"
+  },
+  {
+      "ext": "sparql",
+      "url": "vscode-icons/file_type_sparql.svg"
+  },
+  {
+      "ext": "sqf",
+      "url": "vscode-icons/file_type_sqf.svg"
+  },
+  {
+      "ext": "sql",
+      "url": "vscode-icons/file_type_sql.svg"
+  },
+  {
+      "ext": "sqlite, sqlite3, db3",
+      "url": "vscode-icons/file_type_sqlite.svg"
+  },
+  {
+      "ext": "squirrel",
+      "url": "vscode-icons/file_type_squirrel.svg"
+  },
+  {
+      "ext": "sss",
+      "url": "vscode-icons/file_type_sss.svg"
+  },
+  {
+      "ext": "stan",
+      "url": "vscode-icons/file_type_stan.svg"
+  },
+  {
+      "ext": "dta, stata",
+      "url": "vscode-icons/file_type_stata.svg"
+  },
+  {
+      "ext": "stencil, stencil-html",
+      "url": "vscode-icons/file_type_stencil.svg"
+  },
+  {
+      "ext": "stryker.conf.mjs, stryker.conf.cjs, stryker.conf.js, stryker.conf.conf, stryker.conf.json, .stryker.conf.mjs, .stryker.conf.cjs, .stryker.conf.js, .stryker.conf.conf, .stryker.conf.json, stryker-config.mjs, stryker-config.cjs, stryker-config.js, stryker-config.conf, stryker-config.json, stryker4s.mjs, stryker4s.cjs, stryker4s.js, stryker4s.conf, stryker4s.json",
+      "url": "vscode-icons/file_type_stryker.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_style.svg"
+  },
+  {
+      "ext": ".stylelintrc, .stylelintignore, .stylelintcache, stylelint.config.js, stylelint.config.json, stylelint.config.yaml, stylelint.config.yml, stylelint.config.ts, stylelint.config.cjs, .stylelintrc.js, .stylelintrc.json, .stylelintrc.yaml, .stylelintrc.yml, .stylelintrc.ts, .stylelintrc.cjs",
+      "url": "vscode-icons/file_type_stylelint.svg"
+  },
+  {
+      "ext": "stylable",
+      "url": "vscode-icons/file_type_stylable.svg"
+  },
+  {
+      "ext": "source.css.styled",
+      "url": "vscode-icons/file_type_styled.svg"
+  },
+  {
+      "ext": ".stylish-haskell.yaml",
+      "url": "vscode-icons/file_type_stylish_haskell.svg"
+  },
+  {
+      "ext": "stylus",
+      "url": "vscode-icons/file_type_stylus.svg"
+  },
+  {
+      "ext": "storyboard",
+      "url": "vscode-icons/file_type_storyboard.svg"
+  },
+  {
+      "ext": "story.js, story.jsx, story.ts, story.tsx, story.mdx, stories.js, stories.jsx, stories.ts, stories.tsx, stories.mdx",
+      "url": "vscode-icons/file_type_storybook.svg"
+  },
+  {
+      "ext": ".svnignore",
+      "url": "vscode-icons/file_type_subversion.svg"
+  },
+  {
+      "ext": "svelte",
+      "url": "vscode-icons/file_type_svelte.svg"
+  },
+  {
+      "ext": "svg",
+      "url": "vscode-icons/file_type_svg.svg"
+  },
+  {
+      "ext": "Swagger, swagger",
+      "url": "vscode-icons/file_type_swagger.svg"
+  },
+  {
+      "ext": "package.pins, swift",
+      "url": "vscode-icons/file_type_swift.svg"
+  },
+  {
+      "ext": "swig",
+      "url": "vscode-icons/file_type_swig.svg"
+  },
+  {
+      "ext": "symfony.lock",
+      "url": "vscode-icons/file_type_symfony.svg"
+  },
+  {
+      "ext": "systemd-unit-file",
+      "url": "vscode-icons/file_type_systemd.svg"
+  },
+  {
+      "ext": "systemverilog",
+      "url": "vscode-icons/file_type_systemverilog.svg"
+  },
+  {
+      "ext": "t4",
+      "url": "vscode-icons/file_type_t4tt.svg"
+  },
+  {
+      "ext": "tailwind.js, tailwind.cjs, tailwind.coffee, tailwind.ts, tailwind.json, tailwind.config.js, tailwind.config.cjs, tailwind.config.coffee, tailwind.config.ts, tailwind.config.json, .tailwind.js, .tailwind.cjs, .tailwind.coffee, .tailwind.ts, .tailwind.json, .tailwindrc.js, .tailwindrc.cjs, .tailwindrc.coffee, .tailwindrc.ts, .tailwindrc.json",
+      "url": "vscode-icons/file_type_tailwind.svg"
+  },
+  {
+      "ext": "tauri.conf.json",
+      "url": "vscode-icons/file_type_tauri.svg"
+  },
+  {
+      "ext": "teal",
+      "url": "vscode-icons/file_type_teal.svg"
+  },
+  {
+      "ext": "tt2, tt",
+      "url": "vscode-icons/file_type_tt.svg"
+  },
+  {
+      "ext": "tcl, exp",
+      "url": "vscode-icons/file_type_tcl.svg"
+  },
+  {
+      "ext": "tera",
+      "url": "vscode-icons/file_type_tera.svg"
+  },
+  {
+      "ext": "tfstate, terraform",
+      "url": "vscode-icons/file_type_terraform.svg"
+  },
+  {
+      "ext": "tst",
+      "url": "vscode-icons/file_type_test.svg"
+  },
+  {
+      "ext": ".testcaferc.json",
+      "url": "vscode-icons/file_type_testcafe.svg"
+  },
+  {
+      "ext": "test.js, test.jsx, test.mjs, spec.js, spec.jsx, spec.mjs",
+      "url": "vscode-icons/file_type_testjs.svg"
+  },
+  {
+      "ext": "test.ts, test.tsx, spec.ts, spec.tsx, e2e-test.ts, e2e-test.tsx, e2e-spec.ts, e2e-spec.tsx",
+      "url": "vscode-icons/file_type_testts.svg"
+  },
+  {
+      "ext": "texi, tikz, tex, latex, bibtex, doctex",
+      "url": "vscode-icons/file_type_tex.svg"
+  },
+  {
+      "ext": "csv, tsv, plaintext",
+      "url": "vscode-icons/file_type_text.svg"
+  },
+  {
+      "ext": "textile",
+      "url": "vscode-icons/file_type_textile.svg"
+  },
+  {
+      "ext": "tiltfile",
+      "url": "vscode-icons/file_type_tiltfile.svg"
+  },
+  {
+      "ext": ".tfignore",
+      "url": "vscode-icons/file_type_tfs.svg"
+  },
+  {
+      "ext": "todo",
+      "url": "vscode-icons/file_type_todo.svg"
+  },
+  {
+      "ext": "toit",
+      "url": "vscode-icons/file_type_toit.svg"
+  },
+  {
+      "ext": "toml",
+      "url": "vscode-icons/file_type_toml.svg"
+  },
+  {
+      "ext": "tox.ini",
+      "url": "vscode-icons/file_type_tox.svg"
+  },
+  {
+      "ext": ".travis.yml",
+      "url": "vscode-icons/file_type_travis.svg"
+  },
+  {
+      "ext": "trunk.yaml",
+      "url": "vscode-icons/file_type_trunk.svg"
+  },
+  {
+      "ext": "tsconfig.json, tsconfig.app.json, tsconfig.base.json, tsconfig.common.json, tsconfig.dev.json, tsconfig.development.json, tsconfig.e2e.json, tsconfig.eslint.json, tsconfig.node.json, tsconfig.prod.json, tsconfig.production.json, tsconfig.server.json, tsconfig.spec.json, tsconfig.staging.json, tsconfig.test.json, tsconfig.lib.json, tsconfig.lib.prod.json",
+      "url": "vscode-icons/file_type_tsconfig.svg"
+  },
+  {
+      "ext": "tsconfig.json, tsconfig.app.json, tsconfig.base.json, tsconfig.common.json, tsconfig.dev.json, tsconfig.development.json, tsconfig.e2e.json, tsconfig.node.json, tsconfig.prod.json, tsconfig.production.json, tsconfig.server.json, tsconfig.spec.json, tsconfig.staging.json, tsconfig.test.json, tsconfig.lib.json, tsconfig.lib.prod.json",
+      "url": "vscode-icons/file_type_tsconfig_official.svg"
+  },
+  {
+      "ext": "tslint.json, tslint.yaml, tslint.yml",
+      "url": "vscode-icons/file_type_tslint.svg"
+  },
+  {
+      "ext": "ttcn",
+      "url": "vscode-icons/file_type_ttcn.svg"
+  },
+  {
+      "ext": "tuc",
+      "url": "vscode-icons/file_type_tuc.svg"
+  },
+  {
+      "ext": "twig",
+      "url": "vscode-icons/file_type_twig.svg"
+  },
+  {
+      "ext": "typedoc.js, typedoc.json",
+      "url": "vscode-icons/file_type_typedoc.svg"
+  },
+  {
+      "ext": "ts",
+      "url": "vscode-icons/file_type_typescript.svg"
+  },
+  {
+      "ext": "d.ts, d.cts, d.mts",
+      "url": "vscode-icons/file_type_typescriptdef.svg"
+  },
+  {
+      "ext": "d.ts, d.cts, d.mts",
+      "url": "vscode-icons/file_type_typescriptdef_official.svg"
+  },
+  {
+      "ext": ".unibeautifyrc, unibeautify.config.js, .unibeautifyrc.js, .unibeautifyrc.json, .unibeautifyrc.yaml, .unibeautifyrc.yml",
+      "url": "vscode-icons/file_type_unibeautify.svg"
+  },
+  {
+      "ext": "unlicense, unlicence, unlicense.md, unlicense.txt, unlicence.md, unlicence.txt",
+      "url": "vscode-icons/file_type_unlicense.svg"
+  },
+  {
+      "ext": "vagrantfile",
+      "url": "vscode-icons/file_type_vagrant.svg"
+  },
+  {
+      "ext": "vala",
+      "url": "vscode-icons/file_type_vala.svg"
+  },
+  {
+      "ext": "css.ts",
+      "url": "vscode-icons/file_type_vanilla_extract.svg"
+  },
+  {
+      "ext": "vapi",
+      "url": "vscode-icons/file_type_vapi.svg"
+  },
+  {
+      "ext": "vash",
+      "url": "vscode-icons/file_type_vash.svg"
+  },
+  {
+      "ext": "vapor.yml",
+      "url": "vscode-icons/file_type_vapor.svg"
+  },
+  {
+      "ext": "vb",
+      "url": "vscode-icons/file_type_vb.svg"
+  },
+  {
+      "ext": "vba",
+      "url": "vscode-icons/file_type_vba.svg"
+  },
+  {
+      "ext": "vbhtml",
+      "url": "vscode-icons/file_type_vbhtml.svg"
+  },
+  {
+      "ext": "vbproj",
+      "url": "vscode-icons/file_type_vbproj.svg"
+  },
+  {
+      "ext": "vcxproj",
+      "url": "vscode-icons/file_type_vcxproj.svg"
+  },
+  {
+      "ext": "velocity",
+      "url": "vscode-icons/file_type_velocity.svg"
+  },
+  {
+      "ext": "verilog",
+      "url": "vscode-icons/file_type_verilog.svg"
+  },
+  {
+      "ext": "vhdl",
+      "url": "vscode-icons/file_type_vhdl.svg"
+  },
+  {
+      "ext": "3g2, 3gp, asf, amv, avi, divx, qt, f4a, f4b, f4p, f4v, flv, m2v, m4v, mkv, mk3d, mov, mp2, mp4, mpe, mpeg, mpeg2, mpg, mpv, nsv, ogv, rm, rmvb, svi, vob, webm, wmv",
+      "url": "vscode-icons/file_type_video.svg"
+  },
+  {
+      "ext": null,
+      "url": "vscode-icons/file_type_view.svg"
+  },
+  {
+      "ext": ".vimrc, .gvimrc, viml",
+      "url": "vscode-icons/file_type_vim.svg"
+  },
+  {
+      "ext": "vite.config.js, vite.config.ts",
+      "url": "vscode-icons/file_type_vite.svg"
+  },
+  {
+      "ext": "vitest.config.ts, vitest.config.js, vitest.config.mjs",
+      "url": "vscode-icons/file_type_vitest.svg"
+  },
+  {
+      "ext": "v",
+      "url": "vscode-icons/file_type_vlang.svg"
+  },
+  {
+      "ext": "volt",
+      "url": "vscode-icons/file_type_volt.svg"
+  },
+  {
+      "ext": ".vscodeignore, launch.json, tasks.json, vscodeignore.json",
+      "url": "vscode-icons/file_type_vscode.svg"
+  },
+  {
+      "ext": ".vscodeignore, launch.json, tasks.json, vscodeignore.json",
+      "url": "vscode-icons/file_type_vscode2.svg"
+  },
+  {
+      "ext": ".vscodeignore, launch.json, tasks.json, vscodeignore.json",
+      "url": "vscode-icons/file_type_vscode3.svg"
+  },
+  {
+      "ext": ".vscodeignore, launch.json, tasks.json, vscodeignore.json",
+      "url": "vscode-icons/file_type_vscode-insiders.svg"
+  },
+  {
+      "ext": "vsix",
+      "url": "vscode-icons/file_type_vsix.svg"
+  },
+  {
+      "ext": "vsixmanifest",
+      "url": "vscode-icons/file_type_vsixmanifest.svg"
+  },
+  {
+      "ext": "vue",
+      "url": "vscode-icons/file_type_vue.svg"
+  },
+  {
+      "ext": ".vuerc, vue.config.js, vue.config.cjs, vue.config.mjs",
+      "url": "vscode-icons/file_type_vueconfig.svg"
+  },
+  {
+      "ext": "wallaby.json, wallaby.js, wallaby.ts, wallaby.coffee, wallaby.conf.json, wallaby.conf.js, wallaby.conf.ts, wallaby.conf.coffee, .wallaby.json, .wallaby.js, .wallaby.ts, .wallaby.coffee, .wallaby.conf.json, .wallaby.conf.js, .wallaby.conf.ts, .wallaby.conf.coffee",
+      "url": "vscode-icons/file_type_wallaby.svg"
+  },
+  {
+      "ext": ".watchmanconfig",
+      "url": "vscode-icons/file_type_watchmanconfig.svg"
+  },
+  {
+      "ext": "wasm, wasm, wat",
+      "url": "vscode-icons/file_type_wasm.svg"
+  },
+  {
+      "ext": "webpack.base.conf.js, webpack.base.conf.coffee, webpack.base.conf.ts, webpack.common.js, webpack.common.coffee, webpack.common.ts, webpack.config.js, webpack.config.coffee, webpack.config.ts, webpack.config.base.js, webpack.config.base.coffee, webpack.config.base.ts, webpack.config.common.js, webpack.config.common.coffee, webpack.config.common.ts, webpack.config.dev.js, webpack.config.dev.coffee, webpack.config.dev.ts, webpack.config.development.js, webpack.config.development.coffee, webpack.config.development.ts, webpack.config.staging.js, webpack.config.staging.coffee, webpack.config.staging.ts, webpack.config.test.js, webpack.config.test.coffee, webpack.config.test.ts, webpack.config.prod.js, webpack.config.prod.coffee, webpack.config.prod.ts, webpack.config.production.js, webpack.config.production.coffee, webpack.config.production.ts, webpack.config.babel.js, webpack.config.babel.coffee, webpack.config.babel.ts, webpack.config.base.babel.js, webpack.config.base.babel.coffee, webpack.config.base.babel.ts, webpack.config.common.babel.js, webpack.config.common.babel.coffee, webpack.config.common.babel.ts, webpack.config.dev.babel.js, webpack.config.dev.babel.coffee, webpack.config.dev.babel.ts, webpack.config.development.babel.js, webpack.config.development.babel.coffee, webpack.config.development.babel.ts, webpack.config.staging.babel.js, webpack.config.staging.babel.coffee, webpack.config.staging.babel.ts, webpack.config.test.babel.js, webpack.config.test.babel.coffee, webpack.config.test.babel.ts, webpack.config.prod.babel.js, webpack.config.prod.babel.coffee, webpack.config.prod.babel.ts, webpack.config.production.babel.js, webpack.config.production.babel.coffee, webpack.config.production.babel.ts, webpack.dev.js, webpack.dev.coffee, webpack.dev.ts, webpack.dev.conf.js, webpack.dev.conf.coffee, webpack.dev.conf.ts, webpack.prod.js, webpack.prod.coffee, webpack.prod.ts, webpack.prod.conf.js, webpack.prod.conf.coffee, webpack.prod.conf.ts, webpack.main.config.js, webpack.main.config.coffee, webpack.main.config.ts, webpack.mix.js, webpack.mix.coffee, webpack.mix.ts, webpack.plugins.js, webpack.plugins.coffee, webpack.plugins.ts, webpack.renderer.config.js, webpack.renderer.config.coffee, webpack.renderer.config.ts, webpack.rules.js, webpack.rules.coffee, webpack.rules.ts, webpack.test.conf.js, webpack.test.conf.coffee, webpack.test.conf.ts",
+      "url": "vscode-icons/file_type_webpack.svg"
+  },
+  {
+      "ext": "wenyan",
+      "url": "vscode-icons/file_type_wenyan.svg"
+  },
+  {
+      "ext": "wercker.yml",
+      "url": "vscode-icons/file_type_wercker.svg"
+  },
+  {
+      "ext": "windi.config.ts, windi.config.js",
+      "url": "vscode-icons/file_type_windi.svg"
+  },
+  {
+      "ext": "wolfram",
+      "url": "vscode-icons/file_type_wolfram.svg"
+  },
+  {
+      "ext": "doc, docx, docm, dot, dotx, dotm, wll",
+      "url": "vscode-icons/file_type_word.svg"
+  },
+  {
+      "ext": "doc, docx, docm, dot, dotx, dotm, wll",
+      "url": "vscode-icons/file_type_word2.svg"
+  },
+  {
+      "ext": "wpml-config.xml",
+      "url": "vscode-icons/file_type_wpml.svg"
+  },
+  {
+      "ext": "wurstlang, wurst",
+      "url": "vscode-icons/file_type_wurst.svg"
+  },
+  {
+      "ext": "wxml",
+      "url": "vscode-icons/file_type_wxml.svg"
+  },
+  {
+      "ext": "wxss",
+      "url": "vscode-icons/file_type_wxss.svg"
+  },
+  {
+      "ext": "xcodeproj",
+      "url": "vscode-icons/file_type_xcode.svg"
+  },
+  {
+      "ext": "xfl",
+      "url": "vscode-icons/file_type_xfl.svg"
+  },
+  {
+      "ext": "xib",
+      "url": "vscode-icons/file_type_xib.svg"
+  },
+  {
+      "ext": "xliff, xlf",
+      "url": "vscode-icons/file_type_xliff.svg"
+  },
+  {
+      "ext": "xmake",
+      "url": "vscode-icons/file_type_xmake.svg"
+  },
+  {
+      "ext": "pex, tmlanguage, xml",
+      "url": "vscode-icons/file_type_xml.svg"
+  },
+  {
+      "ext": "xquery",
+      "url": "vscode-icons/file_type_xquery.svg"
+  },
+  {
+      "ext": "xsl",
+      "url": "vscode-icons/file_type_xsl.svg"
+  },
+  {
+      "ext": "yacc",
+      "url": "vscode-icons/file_type_yacc.svg"
+  },
+  {
+      "ext": "yaml, yaml-tmlanguage",
+      "url": "vscode-icons/file_type_yaml.svg"
+  },
+  {
+      "ext": ".yamllint",
+      "url": "vscode-icons/file_type_yamllint.svg"
+  },
+  {
+      "ext": ".yaspellerrc, .yaspeller.json",
+      "url": "vscode-icons/file_type_yandex.svg"
+  },
+  {
+      "ext": "yang",
+      "url": "vscode-icons/file_type_yang.svg"
+  },
+  {
+      "ext": "yarn.lock, .yarnrc, .yarnrc.yml, .yarnclean, .yarn-integrity, .yarn-metadata.json, .yarnignore",
+      "url": "vscode-icons/file_type_yarn.svg"
+  },
+  {
+      "ext": ".yo-rc.json",
+      "url": "vscode-icons/file_type_yeoman.svg"
+  },
+  {
+      "ext": "now.json, .nowignore, vercel.json, .vercelignore",
+      "url": "vscode-icons/file_type_zeit.svg"
+  },
+  {
+      "ext": "zig",
+      "url": "vscode-icons/file_type_zig.svg"
+  },
+  {
+      "ext": "turbo.json",
+      "url": "vscode-icons/file_type_turbo.svg"
+  },
+  {
+      "ext": "doppler.yaml, doppler-template.yaml",
+      "url": "vscode-icons/file_type_doppler.svg"
+  },
+  {
+      "ext": "zip, rar, 7z, tar, tgz, bz, gz, bzip2, xz, bz2, zipx",
+      "url": "vscode-icons/file_type_zip.svg"
+  },
+  {
+      "ext": "zip, rar, 7z, tar, tgz, bz, gz, bzip2, xz, bz2, zipx",
+      "url": "vscode-icons/file_type_zip2.svg"
+  }
+]

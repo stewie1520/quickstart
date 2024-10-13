@@ -1,11 +1,17 @@
 "use client";
 
+import { FileSystemItem, readDirectory } from "@/lib/filesystem";
+import Image from "next/image";
 import { useState } from "react";
-import { DirectoryTree, FileSystemItem } from "@/components/directory-tree";
-import { Button } from '@/components/ui/button';
+import { CodePanel } from "./_components/code-panel";
+import { ModelSettings } from "./_components/model-settings";
+import { SideBar } from "./_components/side-bar";
+import { CodeChat } from "./_components/code-chat";
+import { TextFileService } from "@/services/text-file.service";
 
 export default function Page() {
   const [directoryTree, setDirectoryTree] = useState<FileSystemItem | null>(null)
+  const [selectedFile, setSelectedFile] = useState<{ path: string; name: string; content: string | null }>({ path: '', name: '', content: null })
 
   const handleFolderSelect = async () => {
     try {
@@ -17,42 +23,66 @@ export default function Page() {
     }
   }
 
-  const readDirectory = async (dirHandle: FileSystemDirectoryHandle): Promise<FileSystemItem> => {
-    const children: FileSystemItem[] = []
+  const handleFileSelect = async (item: FileSystemItem) => {
+    try {
+      const fileHandle = item.handle as FileSystemFileHandle
+      const file = await fileHandle.getFile()
+      const ext = fileHandle.name.split('.').pop()?.toLowerCase()
 
-    for await (const entry of dirHandle.values()) {
-      if (entry.kind === 'file') {
-        children.push({ name: entry.name, kind: 'file' })
-      } else if (entry.kind === 'directory') {
-        if (entry.name.startsWith('.')) continue;
-        if (entry.name === 'node_modules') continue;
-
-        children.push(await readDirectory(entry as unknown as FileSystemDirectoryHandle))
+      if (['jpg', 'jpeg', 'png', 'gif', 'bmp', 'webp'].includes(ext || '')) {
+        setSelectedFile({ path: '', name: fileHandle.name, content: URL.createObjectURL(file) });
+        return
       }
-    }
 
-    return {
-      name: dirHandle.name,
-      kind: 'directory',
-      children: children.sort((a, b) => {
-        if (a.kind === b.kind) return a.name.localeCompare(b.name)
-        return a.kind === 'directory' ? -1 : 1
-      }),
+      const content = await file.text()
+      const selectedFile = { path: item.path ?? item.name, name: fileHandle.name, content }
+      setSelectedFile(selectedFile)
+      TextFileService.openFile(selectedFile);
+    } catch (error) {
+      console.error('Error reading file:', error)
+      setSelectedFile({ path: '',  name: item.name, content: 'Error reading file content.' })
+      TextFileService.closeFile();
     }
   }
 
   return (
     <div className="flex h-screen">
-      <aside className="w-64 bg-gray-100 p-4 overflow-auto">
-        <Button onClick={handleFolderSelect} className="mb-4">
-          Select Folder
-        </Button>
-        {directoryTree && <DirectoryTree item={directoryTree} />}
-      </aside>
-      <main className="flex-1 p-4">
-        <h1 className="text-2xl font-bold mb-4">Directory Tree Viewer</h1>
-        <p>Select a folder to view its directory tree in the sidebar.</p>
-      </main>
-    </div>
+    {directoryTree && <SideBar item={directoryTree} onFileSelect={handleFileSelect}/>}
+    <main className="flex-1 p-4 overflow-auto h-full">
+      {!directoryTree ? (
+        <div className="flex items-center justify-center h-full">
+          <ModelSettings onFolderSelect={handleFolderSelect}/>
+        </div>
+      ) : (
+        <>
+          {selectedFile.name
+            ? (
+              <>
+                <CodePanel file={selectedFile}/>
+                <CodeChat />
+              </>
+            ) : (
+            <div className="flex flex-col items-center justify-center h-full gap-2">
+              <Image src="/images/ollama.png" width={80} height={112} alt={""} />
+              <h3 className="text-xl font-semibold text-neutral-500 mt-4">Select a file to start chatting</h3>
+              <p className="text-gray-500">
+                Press&nbsp;
+                <kbd className="pointer-events-none inline-flex h-5 select-none items-center gap-1 rounded border bg-muted px-1.5 font-mono text-[10px] font-medium text-muted-foreground opacity-100">
+                  <span className="text-xs">⌘</span>P
+                </kbd> to search for a file
+              </p>
+
+              <p className="text-gray-500">
+                Press&nbsp;
+                <kbd className="pointer-events-none inline-flex h-5 select-none items-center gap-1 rounded border bg-muted px-1.5 font-mono text-[10px] font-medium text-muted-foreground opacity-100">
+                  <span className="text-xs">⌘</span>M
+                </kbd> to change the model settings
+              </p>
+            </div>
+          )}
+        </>
+      )}
+    </main>
+  </div>
   )
 }

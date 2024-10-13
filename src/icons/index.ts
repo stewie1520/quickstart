@@ -1,0 +1,1 @@
+export { default as IconOllama } from "./ollama.svg"
