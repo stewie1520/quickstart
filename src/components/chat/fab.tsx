@@ -5,7 +5,7 @@ import { PopoverTrigger } from "@/components/ui/popover"
 export const FAB = () => {
   return (
     <div className="fixed right-10 bottom-10">
-      <PopoverTrigger>
+      <PopoverTrigger asChild>
         <Button className="rounded-full size-12">
           <Stars />
         </Button>

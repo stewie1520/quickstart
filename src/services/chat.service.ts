@@ -1,5 +1,5 @@
-import ollama, { ChatResponse } from "ollama/browser";
 import { WithOutNextComplete } from "@/types/rxjs";
+import ollama from "ollama/browser";
 import { BehaviorSubject } from "rxjs";
 import { ModelService } from "./model.service";
 import { TextFileService } from "./text-file.service";
@@ -34,21 +34,36 @@ export class ChatService {
     }
 
     this._currentConversation$.next(conversation);
+   
+    this._stopAnswering();
+  }
+
+  private static _startAnswering() {
+    this._answering$.next(true);
+  }
+
+  private static _stopAnswering() {
     this._messageStreaming$.next(null);
-    this._answering$.next(false);
     this._controller = null;
+    this._answering$.next(false);
+  }
+
+  private static _nextMessage(conversation: Conversation, message: Message) {
+    const newConversation = {
+      ...conversation,
+      messages: [...conversation.messages, message]
+    }
+
+    this._conversations.set(conversation.path, newConversation);
+    this._currentConversation$.next(newConversation);
+    return newConversation;
   }
 
   public static async sendMessage(message: string) {
     const conversation = this._currentConversation$.getValue();
     if (!conversation) return;
-    const newConversation = {
-      ...conversation,
-      messages: [...conversation.messages, { isAI: false, message }]
-    }
 
-    this._conversations.set(conversation.path, newConversation);
-    this._currentConversation$.next(newConversation);
+    const conversationByUser = this._nextMessage(conversation, { isAI: false, message });
 
     const model = ModelService.selectedModel$.getValue();
     if (!model) return;
@@ -66,52 +81,41 @@ export class ChatService {
         Please answer the following questions:
         `
       },
-      ...newConversation.messages.map(msg => ({
+      ...conversationByUser.messages.map(msg => ({
         role: msg.isAI ? "assistant" : "user",
         content: msg.message,
       })),
     ];
 
-    this._answering$.next(true);
+    this._startAnswering();
     const stream = await ollama.chat({
       stream: true,
       model: model.name,
-      keep_alive: -1,
       messages: messagesToFeed
     })
 
     this._controller = stream;
 
-    for await (const response of stream) {
-      const message = (this.messageStreaming$.value ?? '') + response.message.content;
-
-      if (response.done) {
-        const conversation = {
-          ...newConversation,
-          messages: [...newConversation.messages, { isAI: true, message }]
+    try {
+      for await (const response of stream) {
+        const message = (this.messageStreaming$.value ?? '') + response.message.content;
+  
+        if (response.done) {
+          this._nextMessage(conversationByUser, { isAI: true, message });
+          this._stopAnswering();
+          return;
         }
-
-        this._conversations.set(conversation.path, conversation);
-        this._currentConversation$.next(conversation);
-        this._messageStreaming$.next(null);
-        this._controller = null;
-        this._answering$.next(false);
-        return;
+  
+        this._messageStreaming$.next(message);
       }
-
-      this._messageStreaming$.next(message);
+    } catch (error) {
+      console.log("error roi", error);
     }
   }
 
   public static stopMessageStreaming() {
     if (!this._controller) return;
-    try {
-      this._controller.abort();
-    } catch (error) {
-    }
-
-    this._controller = null;
-    this._messageStreaming$.next(null);
-    this._answering$.next(false);
+    this._controller.abort();
+    this._stopAnswering();
   }
 }

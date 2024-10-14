@@ -16,7 +16,7 @@ export const BubbleAI = ({ message }: BubbleProps) => {
           <Image src="/images/ollama.png" alt="AI" width={16} height={20} />
         </div>
       </span>
-      <p className="leading-relaxed">
+      <div className="leading-relaxed">
         <span className="block font-bold text-gray-700">Ollama</span>
         {message ? (
           <div dangerouslySetInnerHTML={{
@@ -31,7 +31,7 @@ export const BubbleAI = ({ message }: BubbleProps) => {
             </div>
           </div>
         )}
-      </p>
+      </div>
     </div>
   )
 }
@@ -40,14 +40,14 @@ export const BubbleUser = ({ message }: BubbleProps) => {
   return (
     <div className="flex gap-3 my-4 text-gray-600 text-sm flex-1">
       <User className="size-8 flex-shrink-0" />
-      <p className="leading-relaxed">
+      <div className="leading-relaxed">
         <span className="block font-bold text-gray-700">You </span>
         {!!message && (
           <div dangerouslySetInnerHTML={{
             __html: marked.parse(message),
           }}></div>
         )}
-      </p>
+      </div>
     </div>
   )
 }
