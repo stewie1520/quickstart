@@ -1,12 +1,12 @@
 import { DependencyList, useCallback, useRef } from 'react'
 import { Subject } from 'rxjs'
 
-type Tail<T extends any[]> = T extends [unknown, ...infer Tail] ? Tail : never
+type Tail<T extends unknown[]> = T extends [unknown, ...infer Tail] ? Tail : never
 
 // type OmitFirstArg<F> = F extends (x: any, ...args: infer P) => infer R ? (...args: P) => R : never
 // type Tail<T extends any[]> = T extends [infer Head, ...infer Tail] ? Tail : never
 
-export const useUnsubscribeCallback = <T extends (unsubscribe$: Subject<void>, ...args: any[]) => any>(
+export const useUnsubscribeCallback = <T extends (unsubscribe$: Subject<void>, ...args: unknown[]) => ReturnType<T>>(
   callback: T,
   deps: DependencyList
 ): ((...args: Tail<Parameters<T>>) => ReturnType<T>) => {

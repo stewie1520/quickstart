@@ -3,7 +3,7 @@ import { BehaviorSubject, takeUntil } from 'rxjs'
 import { useUnsubscribe } from '@/hooks'
 import { WithOutNextComplete } from '@/types/rxjs'
 
-export const useBehaviorMapper = <T = any>(listener$: WithOutNextComplete<BehaviorSubject<T>>) => {
+export const useBehaviorMapper = <T = unknown>(listener$: WithOutNextComplete<BehaviorSubject<T>>) => {
   const unsubscribe$ = useUnsubscribe()
   const [state, setState] = useState<T>(listener$.getValue())
 

@@ -5,9 +5,7 @@ import { useEffect } from "react";
 import { filter, takeUntil } from "rxjs";
 import { ChatService } from "@/services/chat.service";
 
-interface CodeChatProps {}
-
-export const CodeChat = (props: CodeChatProps) => {
+export const CodeChat = () => {
   const currentConversation = useBehaviorMapper(ChatService.currentConversation$);
   const unsubscribed$ = useUnsubscribe();
   const messageStreaming = useBehaviorMapper(ChatService.messageStreaming$);
